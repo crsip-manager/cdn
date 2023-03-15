@@ -1,20 +1,75 @@
 {
-   "news":[
-      {
-         "title":"Do you need a blockchain project? Six very easy steps to verify it as wise",
-         "description":"Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking in a business network.",
-         "date":"2023-03-21",
-         "category":"CryptoCurrency",
-         "thumbnail_url":"https://github.com/crsip-manager/cdn/blob/main/news/blog-single-thumb.png?raw=true",
-         "news_url":"https://www.bbc.com/news/business-64803468"
-      },
-            {
-         "title":"title 2",
-         "description":"description 2",
-         "date":"2023-03-21",
-         "category":"CryptoCurrency",
-         "thumbnail_url":"url_2",
-         "news_url":"news_2"
-      }
-   ]
+  "news": [
+    {
+      "title": "Do you need a blockchain project? Six very easy steps to verify it as wise",
+      "description": "Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking in a business network.",
+      "date": "2023-03-21",
+      "category": "CryptoCurrency",
+      "thumbnail_thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/blog-single-thumb.png?raw=true",
+      "news_thumbnail_url": "https://www.bbc.com/news/business-64803468"
+    },
+    {
+      "title": "Now, a rupee-based crypto index amid a volatile market",
+      "date": "2023-03-21",
+      "category": "Cryptocurrency",      
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/91977370.webp?raw=true",
+      "news_thumbnail_url": "https://timesofindia.indiatimes.com/business/india-business/now-a-rupee-based-crypto-index-amid-a-volatile-market/articleshow/91977343.cms"
+    },
+    {
+      "title": "What does the global NFT gaming trends have in store: Finder Report",
+      "date": "2023-03-21",
+      "category": "NFTs",      
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/92035677.webp?raw=true",
+      "news_thumbnail_url": "https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/what-does-the-global-nft-gaming-trends-have-in-store-finder-report/articleshow/92035706.cms"
+    },
+    {
+      "title": "World&#8217;s first SMS sold as NFT for $150,000 at Paris auction house",
+      "date": "2023-03-21",
+      "category": "NFTs",      
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/world-first-sms-auction.jpg?raw=true",
+      "news_thumbnail_url": "https://edition.cnn.com/style/article/nft-paris-worlds-first-sms-sold-intl-scli/index.html"
+    },
+    {
+      "title": "NFT Lending and Borrowing growing steadily: Dune Analytics report",
+      "date": "2023-03-21",
+      "category": "NFTs",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/91739426.webp?raw=true",
+      "news_thumbnail_url": "https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/nft-lending-and-borrowing-growing-steadily-dune-analytics-report/articleshow/91739386.cms"
+    },
+    {
+      "title": "How blockchain tech could change the way we do business",
+      "date": "2023-03-21",
+      "category": "Blockchain",   
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/87833234_463342984.jpg?raw=true",   
+      "news_thumbnail_url": "https://www.bbc.com/news/business-35370304"
+    },
+    {
+      "title": "Gucci stores to accept cryptocurrencies in US",
+      "date": "2023-03-21",
+      "category": "Cryptocurrency",      
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/124604562_gettyimages-1303940519.jpg?raw=true",
+      "news_thumbnail_url": "https://www.bbc.com/news/business-61343255"
+    },
+    {
+      "title": "Love them or hate them: Cryptocurrencies are here to stay",
+      "date": "2023-03-21",
+      "category": "Cryptocurrency",     
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin.webp?raw=true",
+      "news_thumbnail_url": "https://www.aljazeera.com/economy/2021/10/19/love-them-or-hate-them-cryptocurrencies-are-here-to-stay"
+    },
+    {
+      "title": "Top stablecoin Tether boosts U.S. Treasuries holdings",
+      "date": "2023-03-21",
+      "category": "Cryptocurrency",      
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/WZFWF66YJ5M6BP6PQUTL3MZ7DQ.webp?raw=true",
+      "news_thumbnail_url": "https://www.reuters.com/technology/official-correction-update-2-top-stablecoin-tether-boosts-us-treasuries-holdings-2022-05-19/"
+    },
+    {
+      "title": "India&#8217;s top crypto app CoinSwitch calls for regulatory &#8216;peace, certainty&#8217;",
+      "date": "2023-03-21",
+      "category": "Cryptocurrency",      
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/5IDTCDXAMRPW5FG4SSTLRUR4R4.jpg?raw=true",
+      "news_thumbnail_url": "https://www.reuters.com/technology/indias-top-crypto-app-coinswitch-calls-regulatory-peace-certainty-2022-05-22/"
+    }
+  ]
 }
