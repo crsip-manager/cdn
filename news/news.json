@@ -1,251 +1,75 @@
 {
-  "news": [
-    {
-      "title": "Do you need a blockchain project? Six very easy steps to verify it as wise",
-      "description": "Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking in a business network.",
-      "date": "2023-03-15",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/blog-single-thumb.png?raw=true",
-      "news_thumbnail_url": "https://www.bbc.com/news/business-64803468"
-    },
-    {
-      "title": "Now, a rupee-based crypto index amid a volatile market",
-      "date": "2023-02-20",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/91977370.webp?raw=true",
-      "news_thumbnail_url": "https://timesofindia.indiatimes.com/business/india-business/now-a-rupee-based-crypto-index-amid-a-volatile-market/articleshow/91977343.cms"
-    },
-    {
-      "title": "What does the global NFT gaming trends have in store: Finder Report",
-      "date": "2023-02-22",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/92035677.webp?raw=true",
-      "news_thumbnail_url": "https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/what-does-the-global-nft-gaming-trends-have-in-store-finder-report/articleshow/92035706.cms"
-    },
-    {
-      "title": "World's first SMS sold as NFT for $150,000 at Paris auction house",
-      "date": "2023-01-30",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/world-first-sms-auction.jpg?raw=true",
-      "news_thumbnail_url": "https://edition.cnn.com/style/article/nft-paris-worlds-first-sms-sold-intl-scli/index.html"
-    },
-    {
-      "title": "NFT Lending and Borrowing growing steadily: Dune Analytics report",
-      "date": "2023-03-10",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/91739426.webp?raw=true",
-      "news_thumbnail_url": "https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/nft-lending-and-borrowing-growing-steadily-dune-analytics-report/articleshow/91739386.cms"
-    },
-    {
-      "title": "How blockchain tech could change the way we do business",
-      "date": "2023-03-01",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/87833234_463342984.jpg?raw=true",
-      "news_thumbnail_url": "https://www.bbc.com/news/business-35370304"
-    },
-    {
-      "title": "Gucci stores to accept cryptocurrencies in US",
-      "date": "2023-03-5",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/124604562_gettyimages-1303940519.jpg?raw=true",
-      "news_thumbnail_url": "https://www.bbc.com/news/business-61343255"
-    },
-    {
-      "title": "Love them or hate them: Cryptocurrencies are here to stay",
-      "date": "2023-02-28",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin.webp?raw=true",
-      "news_thumbnail_url": "https://www.aljazeera.com/economy/2021/10/19/love-them-or-hate-them-cryptocurrencies-are-here-to-stay"
-    },
-    {
-      "title": "Top stablecoin Tether boosts U.S. Treasuries holdings",
-      "date": "2023-02-27",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/WZFWF66YJ5M6BP6PQUTL3MZ7DQ.webp?raw=true",
-      "news_thumbnail_url": "https://www.reuters.com/technology/official-correction-update-2-top-stablecoin-tether-boosts-us-treasuries-holdings-2022-05-19/"
-    },
-    {
-      "title": "India's top crypto app CoinSwitch calls for regulatory peace, certainty",
-      "date": "2023-03-10",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/5IDTCDXAMRPW5FG4SSTLRUR4R4.jpg?raw=true",
-      "news_thumbnail_url": "https://www.reuters.com/technology/indias-top-crypto-app-coinswitch-calls-regulatory-peace-certainty-2022-05-22/"
-    },
-    {
-      "title": "Understanding the Potential of Blockchain Technology in Various Industries",
-      "description": "Explore how blockchain technology is transforming industries such as finance, supply chain, healthcare, and more.",
-      "date": "2023-01-02",
-      "category": "Blockchain",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/understanding-potential-limitations-blockchain-marc.jpg?raw=true",
-      "news_thumbnail_url": "https://www.linkedin.com/pulse/understanding-potential-limitations-blockchain-marc/"
-    },
-    {
-      "title": "The Importance of Security in Blockchain Networks",
-      "description": "Explore the crucial role of security in blockchain networks and the measures taken to ensure the integrity and confidentiality of transactions.",
-      "date": "2023-03-14",
-      "category": "Blockchain",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/importance-security-blockchain-networks.jpg?raw=true",
-      "news_thumbnail_url": "https://www.linkedin.com/pulse/importance-security-blockchain-networks/"
-    },
-    {
-      "title": "Demystifying Cryptocurrency: A Beginner's Guide to Digital Money",
-      "description": "This comprehensive guide introduces the basics of cryptocurrency, including Bitcoin, Ethereum, and other popular digital currencies, and explains how they work.",
-      "date": "2023-04-13",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/demystifying-cryptocurrency-a-beginners-guide-to-investing-in-digital-assets-d4a510479a8b.jpg?raw=true",
-      "news_thumbnail_url": "https://medium.com/coinmonks/demystifying-cryptocurrency-a-beginners-guide-to-investing-in-digital-assets-d4a510479a8b"
-    },
-    {
-      "title": "The Ultimate Guide to NFTs: The Future of Digital Ownership",
-      "description": "Explore the phenomenon of non-fungible tokens (NFTs), their impact on the art and collectibles market, and how blockchain technology enables unique digital ownership.",
-      "date": "2023-03-03",
-      "category": "NFTs",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/what-are-nfts-and-why-you-should-own-one.jpg?raw=true",
-      "news_thumbnail_url": "https://droomdroom.com/what-are-nfts-and-why-you-should-own-one/"
-    },
-    {
-      "title": "Understanding Bitcoin: A comprehensive Guide to Revolutionary Cryptocurrency",
-      "description": "Dive into the world of Bitcoin, the first and most well-known cryptocurrency, and learn about its history, technology, and its potential impact on the future of finance.",
-      "date": "2023-05-16",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/understanding-bitcoin-comprehensive.jpg?raw=true",
-      "news_thumbnail_url": "https://techpulsee.blogspot.com/2023/05/understanding-bitcoin-comprehensive.html"
-    },
-    {
-      "title": "Decentralized Finance (DeFi): Exploring Trends and the Future of Financial Innovation",
-      "description": "Discover the concept of decentralized finance (DeFi), its key components, and how it revolutionizes traditional financial systems by offering greater accessibility and transparency.",
-      "date": "2023-05-16",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/decentralized-finance-defi-exploring-trends-and-the-future-of-financial-innovation.jpg?raw=true",
-      "news_thumbnail_url": "https://worldfinancecouncil.org/articles/decentralized-finance-defi-exploring-trends-and-the-future-of-financial-innovation/"
-    },
-    {
-      "title": "5 Predictions For The Future Of Crypto In 2023",
-      "description": "Get insights into the latest trends and predictions for the cryptocurrency market in 2023, including potential developments, challenges, and opportunities.",
-      "date": "2023-01-04",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/5-predictions-for-the-future-of-crypto-in-2023-news.jpg?raw=true",
-      "news_thumbnail_url": "https://www.outlookindia.com/business-spotlight/5-predictions-for-the-future-of-crypto-in-2023-news-250824"
-    },
-    {
-      "title": "Exploring the High-Speed Potential of Solana Blockchain",
-      "description": "Learn about Solana, a high-performance blockchain platform, its key features, and its potential applications in various industries.",
-      "date": "2023-04-25",
-      "category": "Blockchain",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/exploring-the-solana-network-scalability-efficiency-and-innovation-for-the-future-of-blockchain.png?raw=true",
-      "news_thumbnail_url": "https://medium.com/clubrare-universe/exploring-the-solana-network-scalability-efficiency-and-innovation-for-the-future-of-blockchain-f860b0d73ce5"
-    },
-    {
-      "title": "Unlocking the Potential of Avalanche Blockchain: Consensus, Scalability, and Applications",
-      "description": "Explore the unique consensus mechanism and scalable architecture of the Avalanche blockchain, along with its potential applications in decentralized finance (DeFi) and beyond.",
-      "date": "2023-04-20",
-      "category": "Blockchain",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/what-is-avalanche.png?raw=true",
-      "news_thumbnail_url": "https://opensea.io/learn/what-is-avalanche"
-    },
-    {
-      "title": "Polygon: Bridging the Gap for Ethereum Scalability and Layer-2 Solutions",
-      "description": "Discover how Polygon (formerly Matic Network) addresses Ethereum's scalability challenges by providing layer-2 solutions, enabling faster and cheaper transactions.",
-      "date": "2023-03-14",
-      "category": "Blockchain",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/exploring-layer-2-solutions-how-polygons-scaling-solutions-and-studios-are-revolutionizing-blockchain.jpg?raw=true",
-      "news_thumbnail_url": "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/exploring-layer-2-solutions-how-polygons-scaling-solutions-and-studios-are-revolutionizing-blockchain/?sh=1805f3bc57b2"
-    },
-    {
-      "title": "Top 5 SIP Mutual Funds for Long-Term Wealth Creation",
-      "description": "Explore five SIP mutual funds that have a proven track record of delivering consistent returns over the long term, making them ideal for wealth creation goals.",
-      "date": "2023-01-22",
-      "category": "Investment Strategy",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/best-mutual-fund-sip-plan.png?raw=true",
-      "news_thumbnail_url": "https://groww.in/blog/best-mutual-fund-sip-plan"
-    },
-    {
-      "title": "SIP vs. Lump Sum: Which Investment Strategy is Right for You?",
-      "description": "This blog discusses the differences between SIP and lump sum investments, helping readers understand when each strategy is most suitable based on their financial goals and risk tolerance.",
-      "date": "2023-03-03",
-      "category": "Investment Strategy",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/sip-vs-lumpsum-which-is-better-for-investing.png?raw=true",
-      "news_thumbnail_url": "https://www.etmoney.com/learn/mutual-funds/sip-vs-lumpsum-which-is-better-for-investing/"
-    },
-    {
-      "title": "SIP Calculator: A Handy Tool for Planning Your Investments",
-      "description": "Learn how to use an SIP calculator effectively to estimate potential returns, set investment goals, and make informed decisions about your SIP investments.",
-      "date": "2023-05-19",
-      "category": "Investment Strategy",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/sip-calculator.png?raw=true",
-      "news_thumbnail_url": "https://economictimes.indiatimes.com/wealth/calculators/sip-calculator"
-    },
-    {
-      "title": "Common Mistakes to Avoid in SIP Investments",
-      "description": "Discover the common pitfalls to watch out for when investing in SIPs and learn how to avoid them to maximize your returns and minimize potential risks.",
-      "date": "2023-05-19",
-      "category": "Investment Strategy",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/7-common-mistakes-to-avoid-while-investing-through-sips.jpg?raw=true",
-      "news_thumbnail_url": "https://www.financialexpress.com/money/7-common-mistakes-to-avoid-while-investing-through-sips/2344696/#:~:text=7%20common%20mistakes%20to%20avoid%20while%20investing%20through,7.%20Reviewing%20SIP%20performance%20at%20short%20intervals%20"
-    },
-    {
-      "title": "Cryptocurrency Wallets: A Comprehensive Guide",
-      "description": "Learn about different types of cryptocurrency wallets, their features, and how to choose the right wallet to secure your digital assets.",
-      "date": "2023-02-01",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/cryptocurrency-wallet.jpg?raw=true",
-      "news_thumbnail_url": "https://corporatefinanceinstitute.com/resources/cryptocurrency/cryptocurrency-wallet/"
-    },
-    {
-      "title": "Blockchain Interoperability: Bridging the Gap Between Networks",
-      "description": "Dive into the concept of blockchain interoperability, its importance in creating connected networks, and projects working towards seamless integration between different blockchain platforms.",
-      "date": "2023-03-05",
-      "category": "Blockchain",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/cmu2.webp?raw=true",
-      "news_thumbnail_url": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12594"
-    },
-    {
-      "title": "Investing in Cryptocurrency through SIP: A Beginner's Guide",
-      "description": "This blog introduces the concept of investing in cryptocurrencies through a systematic investment plan (SIP), highlighting the benefits, risks, and steps to get started.",
-      "date": "2023-03-06",
-      "category": "Investment strategy",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/a-complete-guide-on-crypto-sip.jpg?raw=true",
-      "news_thumbnail_url": "https://zebpay.com/in/blog/a-complete-guide-on-crypto-sip"
-    },
-    {
-      "title": "Understanding Stablecoins: Crypto's Answer to Volatility",
-      "description": "Delve into the world of stablecoins, cryptocurrencies designed to maintain a stable value, and learn about their underlying mechanisms, use cases, and challenges.",
-      "date": "2023-04-25",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/understanding-stablecoins-uvin-vindula.jpg?raw=true",
-      "news_thumbnail_url": "https://www.linkedin.com/pulse/understanding-stablecoins-uvin-vindula/"
-    },
-    {
-      "title": "The Rise of Decentralized Exchanges: Exploring the Benefits and Challenges",
-      "description": "This blog discusses the growing popularity of decentralized exchanges (DEXs) in the cryptocurrency space, highlighting their advantages, challenges, and impact on traditional centralized exchanges.",
-      "date": "2023-05-15",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/the-rise-of-decentralized-exchanges-dex-understanding-the-benefits-and-risks.jpg?raw=true",
-      "news_thumbnail_url": "https://medium.com/coinmonks/the-rise-of-decentralized-exchanges-dex-understanding-the-benefits-and-risks-61b5614af17f"
-    },
-    {
-      "title": "SIP for Cryptocurrency: A Strategic Approach to Long-Term Investment",
-      "description": "Learn about the concept of using a systematic investment plan (SIP) for cryptocurrency investments, including strategies, benefits, and considerations for long-term wealth accumulation in the crypto market.",
-      "date": "2023-01-20",
-      "category": "Investment Strategy",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/what-is-a-crypto-systematic-investment-plan-sip.jpg?raw=true",
-      "news_thumbnail_url": "https://cryptoadventure.com/community/articles/what-is-a-crypto-systematic-investment-plan-sip/"
-    },
-    {
-      "title": "Crypto Dollar-Cost Averaging: Building Wealth with Regular Investments",
-      "description": "Explore the concept of dollar-cost averaging (DCA) in the cryptocurrency market, and learn how regular, fixed investments can help mitigate volatility and build wealth over time.",
-      "date": "2023-05-08",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/crypto-guide-to-dollar-cost-averaging-dca.jpg?raw=true",
-      "news_thumbnail_url": "https://academy.shrimpy.io/post/crypto-guide-to-dollar-cost-averaging-dca"
-    },
-    {
-      "title": "Blockchain Gaming: Exploring the Intersection of Gaming and Cryptocurrency",
-      "description": "Dive into the world of blockchain gaming, where cryptocurrencies and non-fungible tokens (NFTs) are transforming the gaming industry, enabling players to own, trade, and monetize in-game assets securely.",
-      "date": "2023-04-14",
-      "category": "Blockchain",
-      "thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/the-rise-of-nft-gaming-exploring-the-intersection-of-gaming-and-blockchain.webp?raw=true",
-      "news_thumbnail_url": "https://medium.com/geekculture/the-rise-of-nft-gaming-exploring-the-intersection-of-gaming-and-blockchain-37fa3dd73431"
-    }
-  ]
+"news": [
+{
+"title": "Do you need a blockchain project? Six very easy steps to verify it as wise",
+"description": "Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking in a business network.",
+"date": "2023-03-15",
+"category": "Cryptocurrency",
+"thumbnail_url": "https://github.com/crsip-manager/cdn/blob/main/news/blog-single-thumb.png?raw=true",
+"news_thumbnail_url": "https://www.bbc.com/news/business-64803468"
+},
+{
+"title": "Now, a rupee-based crypto index amid a volatile market",
+"date": "2023-02-20",
+"category": "Cryptocurrency",
+"thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/91977370.webp?raw=true",
+"news_thumbnail_url": "https://timesofindia.indiatimes.com/business/india-business/now-a-rupee-based-crypto-index-amid-a-volatile-market/articleshow/91977343.cms"
+},
+{
+"title": "What does the global NFT gaming trends have in store: Finder Report",
+"date": "2023-02-22",
+"category": "NFTs",
+"thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/92035677.webp?raw=true",
+"news_thumbnail_url": "https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/what-does-the-global-nft-gaming-trends-have-in-store-finder-report/articleshow/92035706.cms"
+},
+{
+"title": "World's first SMS sold as NFT for $150,000 at Paris auction house",
+"date": "2023-01-30",
+"category": "NFTs",
+"thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/world-first-sms-auction.jpg?raw=true",
+"news_thumbnail_url": "https://edition.cnn.com/style/article/nft-paris-worlds-first-sms-sold-intl-scli/index.html"
+},
+{
+"title": "NFT Lending and Borrowing growing steadily: Dune Analytics report",
+"date": "2023-03-10",
+"category": "NFTs",
+"thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/91739426.webp?raw=true",
+"news_thumbnail_url": "https://timesofindia.indiatimes.com/business/cryptocurrency/blockchain/nft-lending-and-borrowing-growing-steadily-dune-analytics-report/articleshow/91739386.cms"
+},
+{
+"title": "How blockchain tech could change the way we do business",
+"date": "2023-03-01",
+"category": "Blockchain",
+"thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/87833234_463342984.jpg?raw=true",
+"news_thumbnail_url": "https://www.bbc.com/news/business-35370304"
+},
+{
+"title": "Gucci stores to accept cryptocurrencies in US",
+"date": "2023-03-5",
+"category": "Cryptocurrency",
+"thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/124604562_gettyimages-1303940519.jpg?raw=true",
+"news_thumbnail_url": "https://www.bbc.com/news/business-61343255"
+},
+{
+"title": "Love them or hate them: Cryptocurrencies are here to stay",
+"date": "2023-02-28",
+"category": "Cryptocurrency",
+"thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin.webp?raw=true",
+"news_thumbnail_url": "https://www.aljazeera.com/economy/2021/10/19/love-them-or-hate-them-cryptocurrencies-are-here-to-stay"
+},
+{
+"title": "Top stablecoin Tether boosts U.S. Treasuries holdings",
+"date": "2023-02-27",
+"category": "Cryptocurrency",
+"thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/WZFWF66YJ5M6BP6PQUTL3MZ7DQ.webp?raw=true",
+"news_thumbnail_url": "https://www.reuters.com/technology/official-correction-update-2-top-stablecoin-tether-boosts-us-treasuries-holdings-2022-05-19/"
+},
+{
+"title": "India's top crypto app CoinSwitch calls for regulatory peace, certainty",
+"date": "2023-03-10",
+"category": "Cryptocurrency",
+"thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/5IDTCDXAMRPW5FG4SSTLRUR4R4.jpg?raw=true",
+"news_thumbnail_url": "https://www.reuters.com/technology/indias-top-crypto-app-coinswitch-calls-regulatory-peace-certainty-2022-05-22/"
+}
+]
 }
