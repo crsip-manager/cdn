@@ -246,6 +246,22 @@
       "category": "Blockchain",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/the-rise-of-nft-gaming-exploring-the-intersection-of-gaming-and-blockchain.webp?raw=true",
       "news_thumbnail_url": "https://medium.com/geekculture/the-rise-of-nft-gaming-exploring-the-intersection-of-gaming-and-blockchain-37fa3dd73431"
+    },
+    {
+      "title": "The Impact of DeFi: Revolutionizing the Financial Landscape",
+      "description": "Delve into the world of decentralized finance (DeFi) and how blockchain technology is reshaping traditional financial systems.",
+      "date": "2023-06-09",
+      "category": "Blockchain",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/Defi-Decentralized-Finance-Blockchain.png?raw=true",
+      "news_thumbnail_url": "https://www.linkedin.com/pulse/impact-defi-revolutionizing-financial-landscape-ryan/"
+    },
+    {
+      "title": "NFTs and the Digital Art Revolution: Exploring the Intersection of Creativity and Blockchain",
+      "description": "Dive into the world of non-fungible tokens (NFTs) and how they are disrupting the art industry, providing new opportunities for artists, collectors, and investors.",
+      "date": "2023-04-18",
+      "category": "NFTs",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/NFTs-Digital-Art-Revolution.jpg?raw=true",
+      "news_thumbnail_url": "https://medium.com/blockchain-smart-solutions/nft-art-exploring-the-world-of-digital-art-and-collectibles-9841c67b789"
     }
   ]
 }
