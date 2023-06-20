@@ -262,6 +262,22 @@
       "category": "NFTs",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/NFTs-Digital-Art-Revolution.jpg?raw=true",
       "news_thumbnail_url": "https://medium.com/blockchain-smart-solutions/nft-art-exploring-the-world-of-digital-art-and-collectibles-8cb62e3788bf"
+    },
+    {
+      "title": "The Future of Cryptocurrencies: Trends and Predictions for 2023 and Beyond",
+      "description": "Explore the latest trends and predictions for the cryptocurrency market in 2023 and beyond, including advancements in blockchain technology, regulatory developments, and the potential impact on various industries.",
+      "date": "2023-06-01",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/future-of-cryptocurrencies-2023.webp?raw=true",
+      "news_thumbnail_url": "https://www.forbes.com/advisor/investing/cryptocurrency/crypto-market-outlook-forecast/"
+    },
+    {
+      "title": "Ethereum Price Analysis: ETH Could Recover To $1,900",
+      "description": "Stay updated with the latest Ethereum price analysis, which suggests a potential recovery to $1,900 for ETH.",
+      "date": "2023-06-20",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ethereum-price-analysis.jpg?raw=true",
+      "news_thumbnail_url": "https://www.livebitcoinnews.com/ethereum-price-analysis-eth-could-recover-to-1900/"
     }
   ]
 }
