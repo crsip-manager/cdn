@@ -278,6 +278,30 @@
       "category": "Cryptocurrency",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ethereum-price-analysis.png?raw=true",
       "news_thumbnail_url": "https://www.livebitcoinnews.com/ethereum-price-analysis-eth-could-recover-to-1900/"
+    },
+    {
+      "title": "The Transformative Impact of NFTs and Digital Collectibles on the Art Market.",
+      "description": "The advent of Non-Fungible Tokens (NFTs) and digital collectibles has disrupted the traditional art market in a significant way, giving rise to new opportunities and challenges.",
+      "date": "2023-04-19",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/NFTs-and-digital-collectibles.jpg?raw=true",
+      "news_thumbnail_url": "https://www.linkedin.com/pulse/transformative-impact-nfts-digital-collectibles-art-market-lepisko/"
+    },
+    {
+      "title": "Navigating the Bull and Bear Cycles – Strategies for Crypto Investors",
+      "description": "Stay updated with the latest Ethereum price analysis, which suggests a potential recovery to $1,900 for ETH.",
+      "date": "2023-06-08",
+      "category": "Investment Strategy",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-bull-and-bear.jpg?raw=true",
+      "news_thumbnail_url": "https://bitcoinke.io/2023/06/navigating-the-bull-and-bear-cycles/"
+    },
+    {
+      "title": "Navigating the Crypto Market: Strategies for Investing in Volatile Times",
+      "description": "Stay updated with the latest Ethereum price analysis, which suggests a potential recovery to $1,900 for ETH.",
+      "date": "2023-16-08",
+      "category": "Investment Strategy",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-strategy.png?raw=true",
+      "news_thumbnail_url": "https://economictimes.indiatimes.com/markets/stocks/news/navigating-market-volatility-11-strategies-for-successful-investments/articleshow/101040092.cms"      
     }
   ]
 }
