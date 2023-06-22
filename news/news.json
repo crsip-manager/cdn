@@ -302,6 +302,30 @@
       "category": "Investment Strategy",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-strategy.png?raw=true",
       "news_thumbnail_url": "https://economictimes.indiatimes.com/markets/stocks/news/navigating-market-volatility-11-strategies-for-successful-investments/articleshow/101040092.cms"      
+    },
+    {
+      "title": "Why Bitcoin’s future depends on whale accumulation?",
+      "description": "Despite market volatility, Bitcoin’s whale accumulation rose, potentially driving short-term price improvements while raising concerns about retail investor vulnerability.",
+      "date": "2023-06-20",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/majestic_whale_representing_influential_investors.png?raw=true",
+      "news_thumbnail_url": "https://ambcrypto.com/why-bitcoins-future-rests-on-whale-accumulation/"
+    },
+    {
+      "title": "Stablecoins Are a Form of Money, Fed Chair Admits in House Testimony",
+      "description": "Stablecoins are a “form of money” over which the central bank ought to have some level of authority, said Federal Reserve Chairman Jerome Powell before Congress on Wednesday.",
+      "date": "2023-06-21",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/Fed-Jerome-Powell.jpg?raw=true",
+      "news_thumbnail_url": "https://beincrypto.com/fed-chair-jerome-powell-us-house-committee/"
+    },
+    {
+      "title": "Polygon Launches ChatGPT-Powered Guide to Web3.0",
+      "description": "Polygon Labs, through ChatGPT, has introduced the first-ever no-code Artificial Intelligence (AI) platform that is designed to explain the basics of Polygon (MATIC) to all enthusiasts. ",
+      "date": "2023-06-22",
+      "category": "Investment Strategy",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/polygon-matic.jpg?raw=true",
+      "news_thumbnail_url": "https://coingape.com/polygon-launches-chatgpt-powered-guide-to-web3-0/?utm_source=24hrsupdateall"      
     }
   ]
 }
