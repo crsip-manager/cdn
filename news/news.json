@@ -326,6 +326,22 @@
       "category": "Investment Strategy",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/polygon-matic.jpg?raw=true",
       "news_thumbnail_url": "https://coingape.com/polygon-launches-chatgpt-powered-guide-to-web3-0/?utm_source=24hrsupdateall"      
+    },
+    {
+      "title": "AI and Crypto Are Becoming Regulatory Frenemies",
+      "description": "The competition between digital currencies and artificial intelligence for the hearts and minds of tech innovators - and the wallets of venture capitalists - reflects a more general dichotomy.",
+      "date": "2023-06-23",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ai-and-crypto-are-becoming-regulatory-frenemies.png?raw=true",
+      "news_thumbnail_url": "https://tech.hindustantimes.com/opinion/ai-and-crypto-are-becoming-regulatory-frenemies-71687457721745.html"
+    },
+    {
+      "title": "Bitcoin rallies to touch highest level since April as traders get bullish on ETF news",
+      "description": "The price of bitcoin jumped above $30,000 following a series of recent applications from traditional financial firms. Investors are growing bullish about the prospects of BlackRock and other major institutional names getting involved in digital assets.",
+      "date": "2023-06-21",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-rallies-to-highest-level-in-over-a-month-on-etf-news.jpg?raw=true",
+      "news_thumbnail_url": "https://www.cnbc.com/2023/06/21/bitcoin-rallies-to-highest-level-in-over-a-month-on-etf-news.html"
     }
   ]
 }
