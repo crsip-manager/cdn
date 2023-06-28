@@ -358,6 +358,22 @@
       "category": "Investment Strategy",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/tips-tricks-cryptocurrency-investment-how-to-maximise-returns-on-crypto-assets.jpg?raw=true",
       "news_thumbnail_url": "https://news.abplive.com/business/crypto/tips-tricks-cryptocurrency-investment-how-to-maximise-returns-on-crypto-assets-1603988"
-    }
+    },
+    {
+      "title": "8 Cool NFT Collections to Buy",
+      "description": "Non-Fungible Tokens (NFTs) have emerged as the next big thing in the fast-paced world of digital art and cryptocurrencies, revolutionizing how we perceive ownership and value in the digital realm. These eight NFT collections are changing how people think about art and investing. ",
+      "date": "2023-06-27",
+      "category": "NFTs",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/8-cool-nft-collections-to-buy.png?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/8-cool-nft-collections-to-buy/"
+     },
+      {
+        "title": "amfAR’s First-Ever NFT Collection Judged by Kendall Jenner, J Balvin, and Notable Artists",
+        "description": "A set of celebrities will form a panel of judges who will pick winning digital artworks for an upcoming NFT collection. Celebrities include artist Jeff Koons, fashion models Kendall Jenner and Kate Moss, filmmaker Baz Luhrmann and musician J Balvin.",
+        "date": "2023-06-27",
+        "category": "NFTs",
+        "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/amfars-first-ever-nft-collection-judged-by-kendall-jenner-j-balvin-and-notable-artists.jpg?raw=true",
+        "news_thumbnail_url": "https://nftevening.com/amfars-first-ever-nft-collection-judged-by-kendall-jenner-j-balvin-and-notable-artists/"
+      }
   ]
 }
