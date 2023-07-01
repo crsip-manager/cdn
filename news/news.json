@@ -414,6 +414,22 @@
       "category": "NFTs",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/what-are-blue-chip-nfts-and-how-can-we-find-them.jpg?raw=true",
       "news_thumbnail_url": "https://cointelegraph.com/explained/what-are-blue-chip-nfts-and-how-can-we-find-them"
-    }    
+    },
+    {
+      "title": "Can You Buy Crypto With A Mastercard?",
+      "description": "By partnering with established cryptocurrency platforms, Mastercard enables secure purchase, storage, and management of digital assets. It aims to ensure transparency and immutability in financial transactions. ",
+      "date": "2023-06-29",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/can-you-buy-crypto-with-a-mastercard.jpg?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/can-you-buy-crypto-with-a-mastercard/"
+    },
+    {
+      "title": "Crypto's Role in Shaping the Future of Finance",
+      "description": "The expectation of persistent and prolonged inflation, coupled with geopolitical uncertainty, will drive the behavior of parking the worldwide wealth in gold, stocks, real estate, and ultimately bitcoin and other digital assets.",
+      "date": "2023-06-29",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/cryptos-role-in-shaping-the-future-of-finance.jpeg?raw=true",
+      "news_thumbnail_url": "https://www.nasdaq.com/articles/cryptos-role-in-shaping-the-future-of-finance"
+    }
   ]
 }
