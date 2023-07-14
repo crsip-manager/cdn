@@ -486,6 +486,38 @@
       "category": "Bitcoin",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/cryptocurrency-bitcoin-prediction.jpg?raw=true",
       "news_thumbnail_url": "https://www.forbes.com/advisor/in/investing/cryptocurrency/bitcoin-prediction/"
+    },
+    {
+      "title": "Elon Musk's New ChatGPT Competitor Boosts AI-Related Crypto Tokens",
+      "description": "Crypto tokens that are related to Artificial intelligence (AI) rose more than 3% on Wednesday, after Tesla and SpaceX CEO Elon Musk unveiled a new AI company called xAI, as an alternative to popular chatbot ChatGPT.",
+      "date": "2023-07-12",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens.jpg?raw=true",
+      "news_thumbnail_url": "https://www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/"
+    },
+    {
+      "title": "Blockchain Apps and NFTs get the Green Light from Google Play ",
+      "description": "In a significant move towards embracing blockchain technology and non-fungible tokens (NFTs), Google has intended to integrate these innovative digital experiences into its Android platform.",
+      "date": "2023-07-13",
+      "category": "Blockchain",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blockchain-apps-and-nfts-get-the-green-light-from-google-play.jpg?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/blockchain-apps-and-nfts-get-the-green-light-from-google-play/"
+    },
+    {
+      "title": "Ethereum Drives Use Case For ‘Zero-Knowledge Proof’, XRP Becomes 4th Largest Crypto",
+      "description": "Ethereum’s scaling protocols have driven the use cases for zero-knowledge proofs in 2023, ZK Validator, a zero-knowledge validation company, reported.",
+      "date": "2023-07-14",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/latest-crypto-news-ethereum-drives-use-case-for-zero-knowledge-proof-xrp-becomes-4th-largest-crypto-news.jpg?raw=true",
+      "news_thumbnail_url": "https://www.outlookindia.com/business/latest-crypto-news-ethereum-drives-use-case-for-zero-knowledge-proof-xrp-becomes-4th-largest-crypto-news-302832"
+    },
+    {
+      "title": "First Mover Americas: Crypto AI Tokens Rally After Musk Unveils New Company",
+      "description": "Artificial intelligence (AI) related crypto tokens posted gains after Tesla and SpaceX CEO Elon Musk on Wednesday unveiled a new AI company called xAI as an alternative to popular chatbot ChatGPT.",
+      "date": "2023-07-13",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/first-mover-americas-crypto-ai-tokens-rally-after-musk-unveils-new-company.jpg?raw=true",
+      "news_thumbnail_url": "https://www.coindesk.com/markets/2023/07/13/first-mover-americas-crypto-ai-tokens-rally-after-musk-unveils-new-company/"
     }
   ]
 }
