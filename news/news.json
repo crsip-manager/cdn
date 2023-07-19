@@ -518,6 +518,30 @@
       "category": "Cryptocurrency",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/first-mover-americas-crypto-ai-tokens-rally-after-musk-unveils-new-company.jpg?raw=true",
       "news_thumbnail_url": "https://www.coindesk.com/markets/2023/07/13/first-mover-americas-crypto-ai-tokens-rally-after-musk-unveils-new-company/"
+    },
+    {
+      "title": "Breaking: Judge rules XRP is not a security in SEC's case against Ripple",
+      "description": "Ripple Labs scored a victory in the United States District Court in the Southern District of New York on July 13 as Judge Analisa Torres ruled partially in favor of the company in a case brought forth by the Securities and Exchange Commission.",
+      "date": "2023-07-13",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ripple-wins-case-against-sec-as-judge-rules-xrp-is-not-a-security.jpg?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/ripple-wins-case-against-sec-as-judge-rules-xrp-is-not-a-security"
+    },
+    {
+      "title": "NFTs in Traditional Art: Impact on Crypto Exchanges",
+      "description": "Transformative potential of NFTs highlights the innovative intersection of art, technology, and finance.",
+      "date": "2023-07-17",
+      "category": "NFTs",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/nfts-in-traditional-art-impact-on-crypto-exchanges.png?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/nfts-in-traditional-art-impact-on-crypto-exchanges/"
+    },
+    {
+      "title": "Celo blockchain proposes return to Ethereum ecosystem, transition to L2",
+      "description": "CLabs, the organization responsible for developing the Celo blockchain, is seeking to return to the Ethereum ecosystem by transitioning from an independent EVM-compatible layer-1 blockchain to an Ethereum layer-2 solution. ",
+      "date": "2023-07-17",
+      "category": "Blockchain",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/celo-blockchain-proposes-return-to-ethereum-ecosystem-transition-to-l2.jpg?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/celo-blockchain-proposes-return-to-ethereum-ecosystem-transition-to-l2"
     }
   ]
 }
