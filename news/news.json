@@ -542,6 +542,22 @@
       "category": "Blockchain",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/celo-blockchain-proposes-return-to-ethereum-ecosystem-transition-to-l2.jpg?raw=true",
       "news_thumbnail_url": "https://cointelegraph.com/news/celo-blockchain-proposes-return-to-ethereum-ecosystem-transition-to-l2"
+    },
+   {
+      "title": "Cryptocurrency Crime Plummets by 65% in 2023, Research Shows",
+      "description": "The report, titled Crypto Crime Midyear Update, shows that cryptocurrency inflows to known illicit entities have declined by a staggering US$5.2 billion (a 65% decrease) compared to last year",
+      "date": "2023-07-18",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/cryptocurrency-crime-plummets-by-65-in-2023-research-shows.jpg",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/cryptocurrency-crime-plummets-by-65-in-2023-research-shows/"
+    },
+    {
+      "title": "How Chimpzee is Harnessing The Power of AI and NFTs To Fight Climate Change, Save Animals and Earn Income",
+      "description": "In a world where environmental conservation has become a pivotal concern, Chimpzee (CHMPZ) emerges as a Web3 project that integrates the power of blockchain technology and Artificial Intelligence to protect the planet’s precious forests and endangered animal species. ",
+      "date": "2023-07-18",
+      "category": "NFTs",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-chimpzee-is-harnessing-the-power-of-ai-and-nfts-to-fight-climate-change-save-animals-and-earn-income.png?raw=true",
+      "news_thumbnail_url": "https://analyticsinsight.net/how-chimpzee-is-harnessing-the-power-of-ai-and-nfts-to-fight-climate-change-save-animals-and-earn-income/"
     }
   ]
 }
