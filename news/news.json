@@ -574,6 +574,22 @@
       "category": "NFTs",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/jack-dorsey-historic-tweet-turned-nft-latest.png?raw=true",
       "news_thumbnail_url": "https://www.cryptopolitan.com/jack-dorsey-historic-tweet-turned-nft-latest/"
+    },
+    {
+      "title": "Most G20 members back RBI’s views on crypto",
+      "description": "Majority of G20 members are now in sync with the view of India’s central bank that cryptocurrencies could pose huge risks to the stability of the financial system.",
+      "date": "2023-07-25",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/g20-members-align-with-india-s-central-bank-on-cryptocurrency-risks-working-towards-international-regulatory-framework.png?raw=true",
+      "news_thumbnail_url": "https://www.hindustantimes.com/india-news/g20-members-align-with-india-s-central-bank-on-cryptocurrency-risks-working-towards-international-regulatory-framework-101690226539412.html"
+    },
+    {
+      "title": "SHIB vs. Tradecurve: Why the Underdog is Winning the Crypto Race",
+      "description": "In June, most of the cryptocurrency market crashed following new SEC restrictions. Tradecurve (TCRV) however, increased in value by 80%. ",
+      "date": "2023-07-24",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/shib-vs-tradecurve-why-the-underdog-is-winning-the-crypto-race.png?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/shib-vs-tradecurve-why-the-underdog-is-winning-the-crypto-race/"
     }
   ]
 }
