@@ -638,6 +638,22 @@
       "category": "NFTs",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/nft-palm-network-to-become-polygon-zk-supernet.jpg?raw=true",
       "news_thumbnail_url": "https://cointelegraph.com/news/nft-palm-network-to-become-polygon-zk-supernet"
-    }
+    },
+    {
+      "title": "Discover the Benefits of Crypto Staking: Profitable Passive Income",
+      "description": "Staking is a unique passive income system that has become an entry point into the crypto world for many enthusiasts and has many benefits.",
+      "date": "2023-07-28",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/discover-the-benefits-of-crypto-staking-profitable-passive-income.jpg?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/discover-the-benefits-of-crypto-staking-profitable-passive-income/"
+    },
+    {
+      "title": "Benefits of Combining Blockchain Technology and Internet of Things.",
+      "description": "The eventual fate of business processes is being re-imagined by the cooperative energy of two progressive advances: Blockchain and the Internet of Things (IoT).",
+      "date": "2023-07-29",
+      "category": "Blockchain",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/benefits-of-combining-blockchain-technology-and-internet-of-things.jpg?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/benefits-of-combining-blockchain-technology-and-internet-of-things/"
+    }    
   ]
 }
