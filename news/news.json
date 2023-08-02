@@ -686,6 +686,22 @@
       "category": "Blockchain",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/impact-of-blockchain-on-media-and-entertainment.jpg?raw=true",
       "news_thumbnail_url": "https://www.analyticsinsight.net/impact-of-blockchain-on-media-and-entertainment/"
+    },
+    {
+      "title": "Blockchain could save financial institutions $10B by 2030: Ripple",
+      "description": "Among the 300 finance professionals surveyed across 45 countries, 97% believe that blockchain will play a crucial role in faster payment systems within the next three years.",
+      "date": "2023-07-30",
+      "category": "Blockchain",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blockchain-financial-institutions-2030-ripple.jpg?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/blockchain-financial-institutions-2030-ripple"
+    },
+    {
+      "title": "The Latest Metaverse Trends Surrounding NFT Art Galleries",
+      "description": "The metaverse's NFT art galleries have reshaped the art industry, making it more accessible, inclusive, and innovative.",
+      "date": "2023-07-31",
+      "category": "NFTs",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/the-latest-metaverse-trends-surrounding-nft-art-galleries.jpg?raw=true",
+      "news_thumbnail_url": "https://www.financemagnates.com/cryptocurrency/innovation/the-latest-metaverse-trends-surrounding-nft-art-galleries/"
     }
   ]
 }
