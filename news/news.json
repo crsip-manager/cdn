@@ -734,6 +734,62 @@
       "category": "Cryptocurrency",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-news-australia.jpg?raw=true",
       "news_thumbnail_url": "https://www.forbes.com/advisor/au/investing/cryptocurrency/crypto-news-australia/"
-    }
+    },
+    {
+      "title": "Newly discovered Bitcoin wallet loophole let hackers steal $900K — SlowMist",
+      "description": "A series of attacks drained the wallets of BTC users by exploiting a faulty random seed generation algorithm.",
+      "date": "2023-08-11",
+      "category": "Bitcoin",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/newly-discovered-bitcoin-wallet-loophole-let-hackers-steal-funds-slow-mist.jpg?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/newly-discovered-bitcoin-wallet-loophole-let-hackers-steal-funds-slow-mist"
+    },
+    {
+      "title": "Star Trek trademarks for NFTs: The final frontier",
+      "description": "CBS Studios applied to use the name “Star Trek Continuum” for nonfungible tokens and crypto collectibles.",
+      "date": "2023-08-09",
+      "category": "NFTs",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/star-trek-trademark-nfts-the-final-frontier.jpg?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/star-trek-trademark-nfts-the-final-frontier"
+    },
+    {
+      "title": "PayPal rolls out stablecoin in latest Crypto payments push",
+      "description": "PayPal Holdings Inc. is rolling out a stablecoin, the first by a large financial company, and a potentially significant boost to the sluggish adoption of digital tokens for payments.",
+      "date": "2023-08-08",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/paypal-launches-stablecoin-in-crypto-push.jpg?raw=true",
+      "news_thumbnail_url": "https://www.moneycontrol.com/news/business/cryptocurrency/paypal-launches-stablecoin-in-crypto-push-11117191.html"
+    },
+    {
+      "title": "Bitcoin Options Tease $34K BTC Prices: Analysts Confirm Rally",
+      "description": " Derebit Bitcoin derivatives data shows that option open interest had surged by 2.18% and overall open interest has surged by 6.59% by press time.",
+      "date": "2023-08-10",
+      "category": "Bitcoin",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-options-hint-high-btc-price.jpg?raw=true",
+      "news_thumbnail_url": "https://voiceofcrypto.online/analysis/bitcoin-options-hint-high-btc-price/"
+    },
+    {
+      "title": "XRP’s Huge Win Against The SEC! Ripple Pumps 80% As The Market Prepares For Impact On Cryptos Like Scorpion Casino Token and Ethereum",
+      "description": "Last month, the almost 3-year-long case against Ripple Labs and its cryptocurrency XRP by the SEC finally ended with the crypto coming out as the victor.",
+      "date": "2023-08-10",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/xrps-huge-win-against-the-sec-ripple-pumps-80-as-the-market-prepares-for-impact-on-cryptos-like-scorpion-casino-token-and-ethereum.jpg?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/xrps-huge-win-against-the-sec-ripple-pumps-80-as-the-market-prepares-for-impact-on-cryptos-like-scorpion-casino-token-and-ethereum/"
+    },
+    {
+      "title": "25,000% Volume Increase in Bitcoin Gold (BTG) Followed by InQubeta (QUBE) presale surge: Unpacking the Reasons",
+      "description": "The crypto community has been enthralled by the recent surge in the trading volume of Bitcoin Gold and the success of InQubeta presale. ",
+      "date": "2023-08-10",
+      "category": "Bitcoin",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/25000-volume-increase-in-bitcoin-gold-btg-followed-by-inqubeta-qube-presale-surge-unpacking-the-reasons.png?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/25000-volume-increase-in-bitcoin-gold-btg-followed-by-inqubeta-qube-presale-surge-unpacking-the-reasons/"
+    },
+    {
+      "title": "Bitcoin Spark makes the Dogecoin Wallet Look Primitive",
+      "description": "Bitcoin Spark is regarded as the solution for the decentralized ecosystem since it contains a model for development and the potential for attracting worldwide participants.",
+      "date": "2023-08-10",
+      "category": "Bitcoin",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-spark-makes-the-dogecoin-wallet-look-primitive.png?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/bitcoin-spark-makes-the-dogecoin-wallet-look-primitive/"
+    }    
   ]
 }
