@@ -790,6 +790,14 @@
       "category": "Bitcoin",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-spark-makes-the-dogecoin-wallet-look-primitive.png?raw=true",
       "news_thumbnail_url": "https://www.analyticsinsight.net/bitcoin-spark-makes-the-dogecoin-wallet-look-primitive/"
-    }    
+    },
+   {
+     "title": "Coinbase wins approval to offer crypto futures trading in US",
+     "description": "Coinbase Global has secured an approval to offer cryptocurrency futures to US retail customers.",
+     "date": "2023-08-16",
+     "category": "Cryptocurrency",
+     "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/coinbase-wins-approval-to-offer-crypto-futures-trading-in-us.jpg?raw=true",
+     "news_thumbnail_url": "https://timesofindia.indiatimes.com/world/us/coinbase-wins-approval-to-offer-crypto-futures-trading-in-us/articleshow/102773720.cms"
+   }
   ]
 }
