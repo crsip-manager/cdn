@@ -798,6 +798,22 @@
      "category": "Cryptocurrency",
      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/coinbase-wins-approval-to-offer-crypto-futures-trading-in-us.jpg?raw=true",
      "news_thumbnail_url": "https://timesofindia.indiatimes.com/world/us/coinbase-wins-approval-to-offer-crypto-futures-trading-in-us/articleshow/102773720.cms"
-   }
+   },
+    {
+      "title": "FC Barcelona Secures $132 Million For Blockchain And NFT Venture, Curve Finance Vows To Reimburse Users After $62 Million Hack",
+      "description": "Spanish football club FC Barcelona has received a €120 million ($132 million) investment for their Web 3.0 effort.",
+      "date": "2023-08-19",
+      "category": "Blockchain",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/latest-crypto-news-fc-barcelona-secures-132-million-for-blockchain-and-nft-venture-curve-finance-vows-to-reimburse-users-after-62-million-hack.jpg?raw=true",
+      "news_thumbnail_url": "https://www.outlookindia.com/business/latest-crypto-news-fc-barcelona-secures-132-million-for-blockchain-and-nft-venture-curve-finance-vows-to-reimburse-users-after-62-million-hack-news-310297"
+    },
+    {
+      "title": "Coinbase gets approval to offer crypto futures to U.S. retail investors.",
+      "description": "Coinbase said Wednesday that it had secured regulatory approval from the National Futures Association to operate as a futures commission merchant.",
+      "date": "2023-08-16",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/coinbase-gets-approval-crypto-futures-us-retail-investors-cnbc-crypto-world.jpg?raw=true",
+      "news_thumbnail_url": "https://www.cnbc.com/video/2023/08/16/coinbase-gets-approval-crypto-futures-us-retail-investors-cnbc-crypto-world.html"
+    }
   ]
 }
