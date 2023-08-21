@@ -814,6 +814,30 @@
       "category": "Cryptocurrency",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/coinbase-gets-approval-crypto-futures-us-retail-investors-cnbc-crypto-world.jpg?raw=true",
       "news_thumbnail_url": "https://www.cnbc.com/video/2023/08/16/coinbase-gets-approval-crypto-futures-us-retail-investors-cnbc-crypto-world.html"
-    }
+    },
+    {
+      "title": "MetaMask, Banxa Roll Out '1-Click' Crypto Buys With Apple Pay",
+      "description": "Crypto wallet MetaMask now offers an optimized Apple Pay option thanks to fiat-to-crypto onramp and fintech firm Banxa.",
+      "date": "2023-08-14",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/metamask-banxa-roll-out-1-click-crypto-buys-apple-pay.jpg?raw=true",
+      "news_thumbnail_url": "https://decrypt.co/152393/metamask-banxa-roll-out-1-click-crypto-buys-apple-pay"
+    },
+    {
+      "title": "Coinbase Finally Wins Approval to List Crypto Futures in U.S.",
+      "description": "Cryptocurrency exchange Coinbase (COIN) can now list crypto futures in the U.S.",
+      "date": "2023-08-16",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/coinbase-finally-wins-approval-to-list-crypto-futures-in-us.jpg?raw=true",
+      "news_thumbnail_url": "https://www.coindesk.com/business/2023/08/16/coinbase-finally-wins-approval-to-list-crypto-futures-in-us/"
+    },
+    {
+      "title": "FarmVille Creator Zynga Reveals First Ethereum NFT Game: Sugartown",
+      "description": "The casual and mobile publisher behind FarmVille and Words With Friends will launch the Ethereum-based Sugartown later this year.",
+      "date": "2023-08-14",
+      "category": "NFTs",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/farmville-creator-zynga-reveals-first-ethereum-nft-game-sugartown.jpg?raw=true",
+      "news_thumbnail_url": "https://decrypt.co/152425/farmville-creator-zynga-reveals-first-ethereum-nft-game-sugartown"
+    }    
   ]
 }
