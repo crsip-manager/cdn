@@ -838,6 +838,22 @@
       "category": "NFTs",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/farmville-creator-zynga-reveals-first-ethereum-nft-game-sugartown.jpg?raw=true",
       "news_thumbnail_url": "https://decrypt.co/152425/farmville-creator-zynga-reveals-first-ethereum-nft-game-sugartown"
-    }    
+    },
+    {
+      "title": "Bitcoin Price Prediction: Analyst Foresees BTC Touching $70k; Pegs DigiToads for a 1500% Upsurge",
+      "description": " A recent forecast has set the stage for excitement as an analyst predicts Bitcoin (BTC) to soar to an impressive $70,000. ",
+      "date": "2023-08-19",
+      "category": "Bitcoin",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-price-prediction-analyst-foresees-btc-touching-70k-pegs-digitoads-for-a-1500-upsurge.jpg?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/bitcoin-price-prediction-analyst-foresees-btc-touching-70k-pegs-digitoads-for-a-1500-upsurge/"
+    },
+    {
+      "title": "Bitcoin Spark: The Next Big Thing After Shiba Inu’s Unexpected Rise?",
+      "description": "Bitcoin Spark’s low market cap, limited supply, utility, and innovative technology could see it rise by levels comparable to if not exceeding Shiba Inu’s unexpected rise.",
+      "date": "2023-08-21",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-spark-the-next-big-thing-after-shiba-inus-unexpected-rise.jpg?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/bitcoin-spark-the-next-big-thing-after-shiba-inus-unexpected-rise/"
+    }
   ]
 }
