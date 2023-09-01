@@ -902,6 +902,38 @@
       "category": "Cryptocurrency",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-market-cautious-fed-powell.jpg?raw=true",
       "news_thumbnail_url": "https://finance.yahoo.com/news/crypto-market-cautious-fed-powell-021904099.html"
+    },
+    {
+      "title": "Breaking victim ‘trust’ in scammer is key to beat crypto scams, exchanges say",
+      "description": "Responsibility for crypto scams does not only belong to the cryptocurrency industry, it also involves banks, telecoms and social media platforms, Australian exchanges say.",
+      "date": "2023-08-31",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-breaking-victim-trust-in-scammer-is-key-to-beat-crypto-scams-exchanges-say.jpg",
+      "news_thumbnail_url": "https://cointelegraph.com/news/crypto-breaking-victim-trust-in-scammer-is-key-to-beat-crypto-scams-exchanges-say"
+    },
+    {
+      "title": "How to Generate Passive Income in Crypto?",
+      "description": "A passive income provides an enticing prospect in the ever-evolving cryptocurrency landscape. While crypto can be used to earn passively, there are also risks associated with it.",
+      "date": "2023-08-29",
+      "category": "Investment Strategy",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-to-generate-passive-income-in-crypto.jpg?raw=true",
+      "news_thumbnail_url": "https://www.bsc.news/post/how-to-generate-passive-income-in-crypto"
+    },
+    {
+      "title": "Indian PM Modi calls for global cryptocurrency framework at G20 Summit",
+      "description": "Indian Prime Minister Narendra Modi has called for global collaboration on formulating crypto regulations during the annual Group of 20 (G20) summit.",
+      "date": "2023-08-28",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/india-modi-global-cryptocurrency-framework-g20-summit.png?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/india-modi-global-cryptocurrency-framework-g20-summit"
+    },
+    {
+      "title": "Is ChatGPT a Viable Substitute for Crypto Trading Bots?",
+      "description": "Some traders might prefer to use ChatGPT to consult an AI agent for guidance, information, or opinions rather than depending on a trading bot to make decisions for them.",
+      "date": "2023-08-31",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/is-chatgpt-a-viable-substitute-for-crypto-trading-bots.png?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/is-chatgpt-a-viable-substitute-for-crypto-trading-bots/"
     }
   ]
 }
