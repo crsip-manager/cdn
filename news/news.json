@@ -934,6 +934,22 @@
       "category": "Cryptocurrency",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/is-chatgpt-a-viable-substitute-for-crypto-trading-bots.png?raw=true",
       "news_thumbnail_url": "https://www.analyticsinsight.net/is-chatgpt-a-viable-substitute-for-crypto-trading-bots/"
-    }
+    },
+    {
+      "title": "Big Boost For 'Dogefather' Elon Musk As X Gets License For Crypto Payments In The US",
+      "description": "Self-proclaimed ‘Dogefather’ Elon Musk got a big boost after X (formerly Twitter) was granted a crypto license in the US.",
+      "date": "2023-08-30",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/elon-musk-x-gets-license-for-crypto-payments-in-us-state.jpg?raw=true",
+      "news_thumbnail_url": "https://www.indiatimes.com/worth/news/elon-musk-x-gets-license-for-crypto-payments-in-us-state-613518.html"
+    },
+    {
+      "title": "Indian Billionaire Mukesh Ambani's Firm Will Explore Blockchain Platforms and CBDCs",
+      "description": "Reliance Industries Ltd. is entering the world of blockchain and central bank digital currencies (CBDCs), its Chairman and Asia's richest man, Mukesh Ambani, announced on Monday.",
+      "date": "2023-08-28",
+      "category": "Blockchain",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ndian-billionaire-mukesh-ambanis-firm-will-explore-blockchain-platforms-and-cbdcs.webp?raw=true",
+      "news_thumbnail_url": "https://www.coindesk.com/policy/2023/08/28/indian-billionaire-mukesh-ambanis-firm-will-explore-blockchain-platforms-and-cbdcs/"
+    }    
   ]
 }
