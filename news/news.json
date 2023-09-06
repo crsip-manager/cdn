@@ -575,6 +575,38 @@
       "category": "Blockchain",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ndian-billionaire-mukesh-ambanis-firm-will-explore-blockchain-platforms-and-cbdcs.webp?raw=true",
       "news_thumbnail_url": "https://www.coindesk.com/policy/2023/08/28/indian-billionaire-mukesh-ambanis-firm-will-explore-blockchain-platforms-and-cbdcs/"
-    }    
+    },
+    {
+      "title": "Shopify enables USDC payments via Solana Pay integration",
+      "description": "Shopify now supports Web3 commerce features like cross-border transactions and NFT loyalty schemes through its integration with Solana Pay",
+      "date": "2023-08-24",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/shopify-usdc-payments-solana-pay.jpg?raw=true",
+      "news_thumbnail_url": "https://blockworks.co/news/shopify-usdc-payments-solana-pay"
+    },
+    {
+      "title": "London Stock Exchange to create traditional assets trading platform on blockchain",
+      "description": "The LSE Group has been exploring how blockchain can improve traditional asset trading, according to an executive.",
+      "date": "2023-09-04",
+      "category": "Blockchain",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/london-stock-exchange-to-create-traditional-assets-trading-platform-on-blockchain.png?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/london-stock-exchange-to-create-traditional-assets-trading-platform-on-blockchain"
+    },
+    {
+      "title": "SONY FILES PATENT FOR NFTS IN GAMING: WHAT THIS MEANS FOR THE INDUSTRY",
+      "description": "Sony, the multinational conglomerate behind the immensely popular PlayStation gaming consoles, has quietly filed a patent application in the United States concerning NFTs in the gaming space.",
+      "date": "2023-08-28",
+      "category": "NFTs",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/sony-files-patent-for-nfts-in-gaming-what-this-means-for-the-industry.jpg?raw=true",
+      "news_thumbnail_url": "https://nftnewstoday.com/2023/08/28/sony-files-patent-for-nfts-in-gaming-what-this-means-for-the-industry/"
+    },
+    {
+      "title": "Visa Expands Stablecoin Pilot Programs With Worldpay and Nuvei",
+      "description": "Visa has expanded its stablecoin settlement capabilities with Circle’s USDC stablecoin by using the Solana blockchain.",
+      "date": "2023-09-05",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/visa-expands-stablecoin-pilot-programs-worldpay-nuvei.jpg?raw=true",
+      "news_thumbnail_url": "https://www.pymnts.com/cryptocurrency/2023/visa-expands-stablecoin-pilot-programs-worldpay-nuvei/"
+    }
   ]
 }
