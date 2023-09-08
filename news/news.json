@@ -623,6 +623,22 @@
       "category": "Investment Strategy",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-to-make-money-with-nfts-a-simple-guide-for-beginners.png?raw=true",
       "news_thumbnail_url": "https://www.analyticsinsight.net/how-to-make-money-with-nfts-a-simple-guide-for-beginners/"
+    },
+    {
+      "title": "Investors Eye G20 Summit for Insights into Crypto Regulation",
+      "description": "Crypto Regulation can encourage broader adoption of blockchain technology and cryptocurrencies",
+      "date": "2023-09-08",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/investors-eye-g20-summit-for-insights-into-crypto-regulation.jpg?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/investors-eye-g20-summit-for-insights-into-crypto-regulation/"
+    },
+    {
+      "title": "Binance Enables Deposits, Withdrawals for Ethereum on zkSync Era",
+      "description": "Binance, the world’s largest crypto exchange by trading volume, has completed the integration of Ethereum (ETH) on the zkSync Era network",
+      "date": "2023-09-08",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/protocol-latest-tech-news-crypto-blockchain.png?raw=true",
+      "news_thumbnail_url": "https://www.coindesk.com/tech/2023/08/28/protocol-latest-tech-news-crypto-blockchain/"
     }
   ]
 }
