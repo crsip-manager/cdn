@@ -639,6 +639,22 @@
       "category": "Cryptocurrency",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/protocol-latest-tech-news-crypto-blockchain.png?raw=true",
       "news_thumbnail_url": "https://www.coindesk.com/tech/2023/08/28/protocol-latest-tech-news-crypto-blockchain/"
-    }
+    },
+    {
+      "title": "Concrete plan needed for crypto: G20 paper",
+      "description": "The crypto ecosystem needs comprehensive regulatory and licensing mechanisms for macroeconomic and financial stability, a synthesis paper said.",
+      "date": "2023-09-08",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/concrete-plan-needed-for-crypto-g20-paper.png?raw=true",
+      "news_thumbnail_url": "https://www.hindustantimes.com/india-news/concrete-plan-needed-for-crypto-g20-paper-101694111362041.html"
+    },
+    {
+      "title": "The Elon Musk-Dogecoin Connection; What This Means for Crypto Users",
+      "description": "Businesses that Elon Musk has endorsed have seen their share price go up, he has an army of loyal supporters who will believe in the cryptos he pushes, and the world’s media will report on what he does.",
+      "date": "2023-09-11",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/the-elon-musk-dogecoin-connection-what-this-means-for-crypto-users.png?raw=true",
+      "news_thumbnail_url": "https://www.analyticsinsight.net/the-elon-musk-dogecoin-connection-what-this-means-for-crypto-users/"
+    }    
   ]
 }
