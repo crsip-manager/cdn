@@ -655,6 +655,22 @@
       "category": "Cryptocurrency",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/the-elon-musk-dogecoin-connection-what-this-means-for-crypto-users.png?raw=true",
       "news_thumbnail_url": "https://www.analyticsinsight.net/the-elon-musk-dogecoin-connection-what-this-means-for-crypto-users/"
-    }    
+    },
+    {
+      "title": "PayPal Introduces On and Off Ramps for Web3 Payments",
+      "description": " By adding Off Ramps, crypto wallet users in the U.S. can convert their crypto to USD directly from their wallets into their PayPal balance so they can shop, send, save, or transfer to their bank or debit card.",
+      "date": "2023-09-11",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/PayPal-Introduces-On-and-Off-Ramps-for-Web3-Payments.png?raw=true",
+      "news_thumbnail_url": "https://newsroom.paypal-corp.com/2023-09-11-PayPal-Introduces-On-and-Off-Ramps-for-Web3-Payments"
+    },
+    {
+      "title": "MetaMask interoperable with Bitcoin for first time",
+      "description": "New functionality from Consensys, dubbed MetaMask Snaps, will allow customization of MetaMask wallets to a much greater extent than was previously possible.",
+      "date": "2023-09-12",
+      "category": "Bitcoin",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/metamask-snaps-interoperable.png?raw=true",
+      "news_thumbnail_url": "https://blockworks.co/news/metamask-snaps-interoperable"
+    }
   ]
 }
