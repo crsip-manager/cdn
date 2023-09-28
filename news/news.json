@@ -703,6 +703,22 @@
       "category": "NFTs",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/news2.png?raw=true",
       "news_thumbnail_url": "https://www.ft.com/content/db35a2a1-addd-4ec6-8b6c-ac33521f00f0"
+    },
+   {
+      "title": "Grab Launches Web3 Wallet For Singaporean Users.",
+      "description": "Grab's Web3 Wallet Leverages Polygon's Technology, Supports SGD Payments and NFT Vouchers.",
+      "date": "2023-09-21",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/grab-launches-web3-wallet-for-singaporean-users.jpg?raw=true",
+      "news_thumbnail_url": "https://thedefiant.io/grab-launches-web3-wallet-for-singaporean-users"
+    },
+    {
+      "title": "NFTs, once hyped as the next big thing, now face 'worst moment'.",
+      "description": "NFTs, along with the rest of crypto, had a painful comeuppance last year.",
+      "date": "2023-09-01",
+      "category": "NFTs",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/nfts-once-hyped-as-the-next-big-thing-now-face-worst-moment.jpg?raw=true",
+      "news_thumbnail_url": "https://economictimes.indiatimes.com/tech/technology/nfts-once-hyped-as-the-next-big-thing-now-face-worst-moment/articleshow/103293788.cms"
     }
   ]
 }
