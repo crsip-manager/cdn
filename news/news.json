@@ -719,6 +719,22 @@
       "category": "NFTs",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/nfts-once-hyped-as-the-next-big-thing-now-face-worst-moment.jpg?raw=true",
       "news_thumbnail_url": "https://economictimes.indiatimes.com/tech/technology/nfts-once-hyped-as-the-next-big-thing-now-face-worst-moment/articleshow/103293788.cms"
+    },
+    {
+      "title": "Bitcoin gains legal recognition as digital currency in Shanghai, China.",
+      "description": "A similar report from another Chinese court in September recognized cryptocurrencies as virtual properties protected by law.",
+      "date": "2023-09-26",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-legally-recognised-digital-currency-shanghai-china.jpg?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/bitcoin-legally-recognised-digital-currency-shanghai-china"
+    },
+    {
+      "title": "¡Hola Argentina! Buenos Aires Brings Digital Identity To Millions of Citizens.",
+      "description": "Buenos Aires is teaming up with QuarkID to issue digital identification services to citizens in Buenos Aires.",
+      "date": "2023-09-28",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/YZPAHCRhP7p0FAq_EwQ2P.jpg?raw=true",
+      "news_thumbnail_url": "https://zksync.mirror.xyz/w4_Dyhbx1X2BEGpYNCn8rEAS_2uC1hV0qPQl_m5AChk"
     }
   ]
 }
