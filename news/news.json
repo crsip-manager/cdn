@@ -735,6 +735,22 @@
       "category": "Cryptocurrency",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/YZPAHCRhP7p0FAq_EwQ2P.jpg?raw=true",
       "news_thumbnail_url": "https://zksync.mirror.xyz/w4_Dyhbx1X2BEGpYNCn8rEAS_2uC1hV0qPQl_m5AChk"
+    },
+    {
+      "title": "Mastercard announces successful wrapped CBDC trial results.",
+      "description": "The experiment demonstrated that CBDCs could be wrapped to purchase NFTs on blockchains such as Ethereum.",
+      "date": "2023-10-12",
+      "category": "NFTs",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images//mastercard-announces-successful-wrapped-cbdc-blockchain-trial-results.jpg?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/mastercard-announces-successful-wrapped-cbdc-blockchain-trial-results"
+    },
+    {
+      "title": "SEGA EXPLORES BLOCKCHAIN GAMING WITH NFT-BASED TRADING CARD GAME.",
+      "description": "Gaming giant Sega is making strides into the blockchain gaming arena by co-developing a trading card NFT game based on its Sangokushi Taisen franchise.",
+      "date": "2023-01-16",
+      "category": "Blockchain",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/sega-explores-blockchain-gaming-with-nft-based-trading-card-game.jpg?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/mastercard-announces-successful-wrapped-cbdc-blockchain-trial-results"
     }
   ]
 }
