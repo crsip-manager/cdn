@@ -767,6 +767,22 @@
       "category": "Bitcoin",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/wallet-developer-offers-on-chain-bounty-daring-hackers-430k-btc.jpg?raw=true",
       "news_thumbnail_url": "https://cointelegraph.com/news/wallet-developer-offers-on-chain-bounty-daring-hackers-430k-btc"
+    },
+    {
+      "title": "Indian crypto platforms thrive amid FIU IND's foreign exchange notice.",
+      "description": "CoinDCX saw a 2000% increase in deposits while Mudrex clocked in deposits worth over $1 million and added 10,000 new users on its platform.",
+      "date": "2024-01-05",
+      "category": "Cryptocurrency",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/google_vignette.jpg",
+      "news_thumbnail_url": "https://www.moneycontrol.com/news/technology/indian-crypto-platforms-thrive-amid-fiu-inds-foreign-exchange-notice-12007051.html"
+    },
+    {
+      "title": "Bitcoin traders see breakout as bulls cling to $44K in ETF countdown.",
+      "description": "BTC price action is due a sea change in the coming days thanks to the spot Bitcoin ETF decision, while U.S. inflation data is also inbound.",
+      "date": "2024-01-07",
+      "category": "Bitcoin",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-traders-breakout-bulls-44k-etf.jpg?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/bitcoin-traders-breakout-bulls-44k-etf"
     }
   ]
 }
