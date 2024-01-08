@@ -751,6 +751,22 @@
       "category": "Blockchain",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/sega-explores-blockchain-gaming-with-nft-based-trading-card-game.jpg?raw=true",
       "news_thumbnail_url": "https://nftnewstoday.com/2023/10/16/sega-explores-blockchain-gaming-with-nft-based-trading-card-game"
+    },
+    {
+      "title": "Bitcoin-accepting vendors increased 174% in 2023: BTC merchant tracker.",
+      "description": "The crowdsourced mapping data reports a concentration of Bitcoin-accepting merchants in Europe and Latin America.",
+      "date": "2024-01-08",
+      "category": "Bitcoin",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-accepting-vendors-increased-174-in-2023-btc-merchant-tracker.jpg?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/bitcoin-accepting-vendors-increased-174-in-2023-btc-merchant-tracker"
+    },
+    {
+      "title": "Wallet developer offers ‘on-chain bounty’ daring hackers to take $430K BTC.",
+      "description": "Zengo Wallet will reveal a wallet address containing up to 10 BTC and will also disclose two out of three security factors used to create it.",
+      "date": "2024-01-07",
+      "category": "Bitcoin",
+      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/wallet-developer-offers-on-chain-bounty-daring-hackers-430k-btc.jpg?raw=true",
+      "news_thumbnail_url": "https://cointelegraph.com/news/wallet-developer-offers-on-chain-bounty-daring-hackers-430k-btc"
     }
   ]
 }
