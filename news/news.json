@@ -783,6 +783,24 @@
       "category": "Bitcoin",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-traders-breakout-bulls-44k-etf.jpg?raw=true",
       "news_thumbnail_url": "https://cointelegraph.com/news/bitcoin-traders-breakout-bulls-44k-etf"
-    }
+    },
+    {
+          "title": "Bitcoin Likely to Drop After the Halving, JPMorgan Says.",
+          "description": "The bank’s analysis of open interest in bitcoin futures shows that the cryptocurrency is still considered overbought.",
+          "date": "2024-04-18",
+          "category": "Bitcoin",
+          "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-likely-to-drop-after-the-halving-jpmorgan-says.jpg?raw=true",
+          "news_thumbnail_url": "https://www.coindesk.com/markets/2024/04/18/bitcoin-likely-to-drop-after-the-halving-jpmorgan-says/?_gl=1*3sunjo*_up*MQ..*_ga*MTM5NzM5MjA4Ni4xNzEzNDQ2MDA3*_ga_VM3STRYVN8*MTcxMzQ0NjAwNi4xLjAuMTcxMzQ0NjAwNi4wLjAuMA.."
+        },
+     {
+          "title": "Free fall! Bitcoin slips 7% to fall below $65,000-mark",
+          "description": "Bitcoin slipped 7 percent on April 2 to fall below $65,000 as demand eases for dedicated US exchange-traded funds and bets retreat on a lax Federal Reserve policy.",
+          "date": "2024-04-02",
+          "category": "Bitcoin",
+          "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/free-fall-bitcoin-slips-7-to-fall-below-65000-mark-12563191l.jpg?raw=true",
+          "news_thumbnail_url": "https://www.moneycontrol.com/news/business/cryptocurrency/free-fall-bitcoin-slips-7-to-fall-below-65000-mark-12563191.html"
+        }
+
+
   ]
 }
