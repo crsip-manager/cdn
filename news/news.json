@@ -831,6 +831,22 @@
       "category": "Cryptocurrency",
       "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/price-analysis-5-8-btc-eth-bnb-sol-xrp-doge-ton-ada-avax-shib.jpg?raw=true",
       "news_thumbnail_url": "https://cointelegraph.com/news/price-analysis-5-8-btc-eth-bnb-sol-xrp-doge-ton-ada-avax-shib"
-    }
+    },
+    {
+          "title": "Blockchain gaming investments reached nearly $1B in April.",
+          "description": "The investment figures come alongside a record high 2.9 million daily unique active wallets (dUAW) for the month.",
+          "date": "2024-05-18",
+          "category": "Blockchain",
+          "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blockchain-gaming-investments-1-billion-nft-web3-april.jpg?raw=true",
+          "news_thumbnail_url": "https://cointelegraph.com/news/blockchain-gaming-investments-1-billion-nft-web3-april"
+        },
+    {
+          "title": "Bitcoin whale demand accelerates, but price jump could ‘take weeks’ — Analysts",
+          "description": "The break in Bitcoin’s daily downtrend and heightened demand from whales indicate Bitcoin’s price could jump, but analysts expected it to take a few weeks.",
+          "date": "2024-05-16",
+          "category": "Bitcoin",
+          "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-whale-demand-surges-price-jump-could-take-weeks-cryptoquant.jpg?raw=true",
+          "news_thumbnail_url": "https://cointelegraph.com/news/bitcoin-whale-demand-surges-price-jump-could-take-weeks-cryptoquant"
+        }
   ]
 }
