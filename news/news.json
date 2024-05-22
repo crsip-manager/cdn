@@ -1,852 +1,868 @@
 {
-  "news": [
-    {
-      "title": "Bitcoin Price Rally Stalls For Now, Here’s Why",
-      "description": "After the Bitcoin price hit a new yearly high of $32,410 last Friday, June 23, the price rally has stalled for the time being. While the long-term outlook looks extremely bullish due to various Bitcoin spot ETF applications, there are currently a few reasons in the short-term which prevent a continuation for now.",
-      "date": "2023-06-28",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-price-rally-stalls-for-now-heres-why.jpg?raw=true",
-      "news_thumbnail_url": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-rally-stalls-for-now-heres-why/"
-    },
-    {
-      "title": "Crypto Miners Sent Over $1B Bitcoin to Exchanges Over Two Weeks: CryptoQuant",
-      "description": "Bitcoin (BTC) miners have sent over a billion dollars worth of the asset to crypto exchanges over the past two weeks but not necessarily to sell the tokens.",
-      "date": "2023-06-28",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-miners-sent-over-1b-bitcoin-to-exchanges-over-two-weeks-cryptoquant.jpg?raw=true",
-      "news_thumbnail_url": "https://www.coindesk.com/tech/2023/06/28/crypto-miners-sent-over-1b-bitcoin-to-exchanges-over-two-weeks-cryptoquant/"
-    },
-    {
-      "title": "Mastercard to continue crypto foray with beta launch of ‘blockchain app store’",
-      "description": "The credit card giant is expected to release the beta version of the product Multi-Token Network (MTN) this summer",
-      "date": "2023-06-29",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/mastercard-blockchain-app-store-beta.jpg?raw=true",
-      "news_thumbnail_url": "https://blockworks.co/news/mastercard-blockchain-app-store-beta"
-    },
-    {
-      "title": "What are blue-chip NFTs, and how to find them?",
-      "description": "Blue-chip nonfungible tokens (NFTs) are coveted for their reputation, quality and potential for long-term value appreciation, just like blue-chip stocks in conventional finance.",
-      "date": "2023-06-30",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/what-are-blue-chip-nfts-and-how-can-we-find-them.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/explained/what-are-blue-chip-nfts-and-how-can-we-find-them"
-    },
-    {
-      "title": "Can You Buy Crypto With A Mastercard?",
-      "description": "By partnering with established cryptocurrency platforms, Mastercard enables secure purchase, storage, and management of digital assets. It aims to ensure transparency and immutability in financial transactions. ",
-      "date": "2023-06-29",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/can-you-buy-crypto-with-a-mastercard.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/can-you-buy-crypto-with-a-mastercard/"
-    },
-    {
-      "title": "Crypto's Role in Shaping the Future of Finance",
-      "description": "The expectation of persistent and prolonged inflation, coupled with geopolitical uncertainty, will drive the behavior of parking the worldwide wealth in gold, stocks, real estate, and ultimately bitcoin and other digital assets.",
-      "date": "2023-06-29",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/cryptos-role-in-shaping-the-future-of-finance.jpeg?raw=true",
-      "news_thumbnail_url": "https://www.nasdaq.com/articles/cryptos-role-in-shaping-the-future-of-finance"
-    },
-    {
-      "title": "9 Latest NFT Developments in 2023",
-      "description": "The market for non-fungible tokens has become increasingly accepted over the past few years, and this trend shows no signs of slowing down. ",
-      "date": "2023-07-04",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/9-latest-nft-developments-in-2023.jpg?raw=true",
-      "news_thumbnail_url": "https://cryptosaurus.tech/9-latest-nft-developments-in-2023/"
-    },
-    {
-      "title": "Ronaldo to launch second NFT collection 'ForeverCR7: The GOAT' today",
-      "description": "Cristiano Ronaldo announced his partnership with the world's leading cryptocurrency exchange, Binance, unveiling its second exclusive NFT collection, ForeverCR7: The GOAT.",
-      "date": "2023-07-03",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ronaldo-to-launch-its-second-nft-collection-forevercr7-the-goat-today.png?raw=true",
-      "news_thumbnail_url": "https://www.business-standard.com/markets/news/ronaldo-to-launch-its-second-nft-collection-forevercr7-the-goat-today-123070300185_1.html"
-    },
-    {
-      "title": "How Are NFTs Redefining Content Marketing?",
-      "description": "While the majority of the population was unaware of these one-of-a-kind digital tokens, a lot of companies jumped to adopt NFTs. ",
-      "date": "2023-07-10",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-are-nfts-redefining-content-marketing.jpg?raw=true",
-      "news_thumbnail_url": "https://www.lcx.com/how-are-nfts-redefining-content-marketing/"
-    },
-    {
-      "title": "Blue-Chip NFTs: What They Are and Where to Find Them?",
-      "description": "Blue-chip nonfungible tokens (NFTs), like blue-chip equities in traditional finance, are prized for their standing, caliber, and potential for long-term value growth. ",
-      "date": "2023-07-08",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blue-chip-nfts-what-they-are-and-where-to-find-them.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/blue-chip-nfts-what-they-are-and-where-to-find-them/"
-    },
-    {
-      "title": "7 Strategies That Will Make A Big Difference In Your Cryptocurrency Investment",
-      "description": "Life-changing strategies that will elevate your crypto investment game and put you in the top percentile of crypto earners. ",
-      "date": "2023-07-10",
-      "category": "Investment Strategy",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/7-best-strategies-for-making-crypto-investments.jpeg?raw=true",
-      "news_thumbnail_url": "https://www.techloy.com/7-best-strategies-for-making-crypto-investments/"
-    },
-    {
-      "title": "Atpbot Launches The Easiest Automated Crypto Trading Bot For Investors",
-      "description": "ATPBot focuses on quantitative trading strategy development and services. It uses artificial intelligence to develop and implement quantitative trading strategies for users.",
-      "date": "2023-07-12",
-      "category": "Investment Strategy",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/atpbot-launches-the-easiest-automated-crypto-trading-bot-for-investors.jpg?raw=true",
-      "news_thumbnail_url": "https://www.crypto-news-flash.com/atpbot-launches-the-easiest-automated-crypto-trading-bot-for-investors/"
-    },
-    {
-      "title": "Bitcoin Price Prediction: ETF Enthusiasm Fades as Market Dynamics Shift",
-      "description": "After a period of excitement surrounding the potential approval of Bitcoin exchange-traded funds (ETFs), the market sentiment has shifted, leading to a decline in Bitcoin's price. ",
-      "date": "2023-07-10",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-price-prediction-etf-enthusiasm-fades-as-market-dynamics-shift.jpg?raw=true",
-      "news_thumbnail_url": "https://cryptonews.com/news/bitcoin-price-prediction-etf-enthusiasm-fades-as-market-dynamics-shift.htm"
-    },
-    {
-      "title": "Bitcoin Price Prediction: Can Bitcoin Reach $1,000,000 by 2025?",
-      "description": "We all know that BTC has rallied more than 80% since the start of this year. With such massive and unexpected gains, it has surely outpaced several other major assets and given tremendous returns to those who have bought BTC at dips.",
-      "date": "2023-07-06",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/cryptocurrency-bitcoin-prediction.jpg?raw=true",
-      "news_thumbnail_url": "https://www.forbes.com/advisor/in/investing/cryptocurrency/bitcoin-prediction/"
-    },
-    {
-      "title": "Elon Musk's New ChatGPT Competitor Boosts AI-Related Crypto Tokens",
-      "description": "Crypto tokens that are related to Artificial intelligence (AI) rose more than 3% on Wednesday, after Tesla and SpaceX CEO Elon Musk unveiled a new AI company called xAI, as an alternative to popular chatbot ChatGPT.",
-      "date": "2023-07-12",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens.jpg?raw=true",
-      "news_thumbnail_url": "https://www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/"
-    },
-    {
-      "title": "Blockchain Apps and NFTs get the Green Light from Google Play ",
-      "description": "In a significant move towards embracing blockchain technology and non-fungible tokens (NFTs), Google has intended to integrate these innovative digital experiences into its Android platform.",
-      "date": "2023-07-13",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blockchain-apps-and-nfts-get-the-green-light-from-google-play.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/blockchain-apps-and-nfts-get-the-green-light-from-google-play/"
-    },
-    {
-      "title": "Ethereum Drives Use Case For ‘Zero-Knowledge Proof’, XRP Becomes 4th Largest Crypto",
-      "description": "Ethereum’s scaling protocols have driven the use cases for zero-knowledge proofs in 2023, ZK Validator, a zero-knowledge validation company, reported.",
-      "date": "2023-07-14",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/latest-crypto-news-ethereum-drives-use-case-for-zero-knowledge-proof-xrp-becomes-4th-largest-crypto-news.jpg?raw=true",
-      "news_thumbnail_url": "https://www.outlookindia.com/business/latest-crypto-news-ethereum-drives-use-case-for-zero-knowledge-proof-xrp-becomes-4th-largest-crypto-news-302832"
-    },
-    {
-      "title": "First Mover Americas: Crypto AI Tokens Rally After Musk Unveils New Company",
-      "description": "Artificial intelligence (AI) related crypto tokens posted gains after Tesla and SpaceX CEO Elon Musk on Wednesday unveiled a new AI company called xAI as an alternative to popular chatbot ChatGPT.",
-      "date": "2023-07-13",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/first-mover-americas-crypto-ai-tokens-rally-after-musk-unveils-new-company.jpg?raw=true",
-      "news_thumbnail_url": "https://www.coindesk.com/markets/2023/07/13/first-mover-americas-crypto-ai-tokens-rally-after-musk-unveils-new-company/"
-    },
-    {
-      "title": "Breaking: Judge rules XRP is not a security in SEC's case against Ripple",
-      "description": "Ripple Labs scored a victory in the United States District Court in the Southern District of New York on July 13 as Judge Analisa Torres ruled partially in favor of the company in a case brought forth by the Securities and Exchange Commission.",
-      "date": "2023-07-13",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ripple-wins-case-against-sec-as-judge-rules-xrp-is-not-a-security.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/ripple-wins-case-against-sec-as-judge-rules-xrp-is-not-a-security"
-    },
-    {
-      "title": "NFTs in Traditional Art: Impact on Crypto Exchanges",
-      "description": "Transformative potential of NFTs highlights the innovative intersection of art, technology, and finance.",
-      "date": "2023-07-17",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/nfts-in-traditional-art-impact-on-crypto-exchanges.png?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/nfts-in-traditional-art-impact-on-crypto-exchanges/"
-    },
-    {
-      "title": "Celo blockchain proposes return to Ethereum ecosystem, transition to L2",
-      "description": "CLabs, the organization responsible for developing the Celo blockchain, is seeking to return to the Ethereum ecosystem by transitioning from an independent EVM-compatible layer-1 blockchain to an Ethereum layer-2 solution. ",
-      "date": "2023-07-17",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/celo-blockchain-proposes-return-to-ethereum-ecosystem-transition-to-l2.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/celo-blockchain-proposes-return-to-ethereum-ecosystem-transition-to-l2"
-    },
-    {
-      "title": "Cryptocurrency Crime Plummets by 65% in 2023, Research Shows",
-      "description": "The report, titled Crypto Crime Midyear Update, shows that cryptocurrency inflows to known illicit entities have declined by a staggering US$5.2 billion (a 65% decrease) compared to last year",
-      "date": "2023-07-18",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/cryptocurrency-crime-plummets-by-65-in-2023-research-shows.jpg",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/cryptocurrency-crime-plummets-by-65-in-2023-research-shows/"
-    },
-    {
-      "title": "How Chimpzee is Harnessing The Power of AI and NFTs To Fight Climate Change, Save Animals and Earn Income",
-      "description": "In a world where environmental conservation has become a pivotal concern, Chimpzee (CHMPZ) emerges as a Web3 project that integrates the power of blockchain technology and Artificial Intelligence to protect the planet’s precious forests and endangered animal species. ",
-      "date": "2023-07-18",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-chimpzee-is-harnessing-the-power-of-ai-and-nfts-to-fight-climate-change-save-animals-and-earn-income.png?raw=true",
-      "news_thumbnail_url": "https://analyticsinsight.net/how-chimpzee-is-harnessing-the-power-of-ai-and-nfts-to-fight-climate-change-save-animals-and-earn-income/"
-    },
-    {
-      "title": "Amidst the Market Dip, Cardano (ADA) Investors Turn to DigiToads (TOADS) for a Potential 200x ROI",
-      "description": "DigiToads is gaining traction at a fast pace within the crypto landscape. With its presale launched in the first half of the year, over $6.1 million has been raised, which is a huge accomplishment. ",
-      "date": "2023-07-20",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/amidst-the-market-dip-cardano-ada-investors-turn-to-digitoads-toads-for-a-potential-200x-roi.png?raw=true",
-      "news_thumbnail_url": "analyticsinsight.net/amidst-the-market-dip-cardano-ada-investors-turn-to-digitoads-toads-for-a-potential-200x-roi/"
-    },
-    {
-      "title": "Jack Dorsey’s historic tweet-turned-NFT: What’s the latest?",
-      "description": "Jack Dorsey's first-ever Tweet, turned NFT, which was bought for $2.9 million, now has a bid of just $1.14.",
-      "date": "2023-07-19",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/jack-dorsey-historic-tweet-turned-nft-latest.png?raw=true",
-      "news_thumbnail_url": "https://www.cryptopolitan.com/jack-dorsey-historic-tweet-turned-nft-latest/"
-    },
-    {
-      "title": "Most G20 members back RBI’s views on crypto",
-      "description": "Majority of G20 members are now in sync with the view of India’s central bank that cryptocurrencies could pose huge risks to the stability of the financial system.",
-      "date": "2023-07-25",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/g20-members-align-with-india-s-central-bank-on-cryptocurrency-risks-working-towards-international-regulatory-framework.png?raw=true",
-      "news_thumbnail_url": "https://www.hindustantimes.com/india-news/g20-members-align-with-india-s-central-bank-on-cryptocurrency-risks-working-towards-international-regulatory-framework-101690226539412.html"
-    },
-    {
-      "title": "SHIB vs. Tradecurve: Why the Underdog is Winning the Crypto Race",
-      "description": "In June, most of the cryptocurrency market crashed following new SEC restrictions. Tradecurve (TCRV) however, increased in value by 80%. ",
-      "date": "2023-07-24",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/shib-vs-tradecurve-why-the-underdog-is-winning-the-crypto-race.png?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/shib-vs-tradecurve-why-the-underdog-is-winning-the-crypto-race/"
-    },
-    {
-      "title": "Crypto Daily Roundup: X Token Surged 5,000% Overnight",
-      "description": "After Elon’s Twitter rebranding to ‘X’, a number of new meme coins have launched with the X token rallying up 4,300% overnight.",
-      "date": "2023-07-26",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-daily-roundup-x-token-surged-5000-overnight.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/crypto-daily-roundup-x-token-surged-5000-overnight/"
-    },
-    {
-      "title": "9 Tips for Using AI for a Successful Crypto Trading",
-      "description": "From predicting market trends to enhancing security measures, AI has found its place within the cryptocurrency sector, providing unique advantages only made possible through its automated process-oriented techniques. ",
-      "date": "2023-07-25",
-      "category": "Investment Strategy",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/9-tips-for-using-ai-for-a-successful-crypto-trading.png?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/9-tips-for-using-ai-for-a-successful-crypto-trading/"
-    },
-    {
-      "title": "Lacoste's New Virtual Store Has Exclusive Perks for Ethereum NFT Holders",
-      "description": "Apparel brand Lacoste's new digital storefront provides an immersive shopping experience—and NFT holders get full access.",
-      "date": "2023-07-26",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/lacoste-new-virtual-store-exclusive-perks-ethereum-nft-holders.jpg?raw=true",
-      "news_thumbnail_url": "https://decrypt.co/150014/lacoste-new-virtual-store-exclusive-perks-ethereum-nft-holders"
-    },
-    {
-      "title": "BlackRock CEO Highlights Increasing Investor Demand for Crypto, Is it time to invest in DigiToads (TOADS) and Flocki Inu (FLOCKI)?",
-      "description": "BlackRock CEO Larry Fink recently indicated a rising interest in cryptocurrencies among traditional gold investors. ",
-      "date": "2023-07-27",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blackrock-ceo-highlights-increasing-investor-demand-for-crypto-is-it-time-to-invest-in-digitoads-toads-and-flocki-inu-flocki.png?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/blackrock-ceo-highlights-increasing-investor-demand-for-crypto-is-it-time-to-invest-in-digitoads-toads-and-flocki-inu-flocki/"
-    },
-    {
-      "title": "Fancy Crypto, Happy Miner, IDMining, NFTProX – How To Identify Crypto Cloud Mining Scams?",
-      "description": "In a typical cloud mining scam, the scammers usually set up a website that looks legitimate. Then they claim to offer high returns on investment. However, once you invest your money, the scammers will take it and disappear. ",
-      "date": "2023-07-27",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/fancy-crypto-happy-miner-idmining-nftprox-how-to-identify-crypto-cloud-mining-scams.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/fancy-crypto-happy-miner-idmining-nftprox-how-to-identify-crypto-cloud-mining-scams/"
-    },
-    {
-      "title": "NFT-optimized Palm Network to become a Polygon ZK Supernet",
-      "description": "The Ethereum sidechain will transition to a proof-of-stake network this August and become a full-fledged layer 2 based on Polygon’s zero-knowledge protocol in 2024.",
-      "date": "2023-07-28",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/nft-palm-network-to-become-polygon-zk-supernet.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/nft-palm-network-to-become-polygon-zk-supernet"
-    },
-    {
-      "title": "Discover the Benefits of Crypto Staking: Profitable Passive Income",
-      "description": "Staking is a unique passive income system that has become an entry point into the crypto world for many enthusiasts and has many benefits.",
-      "date": "2023-07-28",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/discover-the-benefits-of-crypto-staking-profitable-passive-income.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/discover-the-benefits-of-crypto-staking-profitable-passive-income/"
-    },
-    {
-      "title": "Benefits of Combining Blockchain Technology and Internet of Things.",
-      "description": "The eventual fate of business processes is being re-imagined by the cooperative energy of two progressive advances: Blockchain and the Internet of Things (IoT).",
-      "date": "2023-07-29",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/benefits-of-combining-blockchain-technology-and-internet-of-things.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/benefits-of-combining-blockchain-technology-and-internet-of-things/"
-    },
-    {
-      "title": "Will VC Spectra Beat Binance (BNB) and Litecoin (LTC) in Profit? Experts Say Yes",
-      "description": "With over $2.4 million raised during private presale events, VC Spectra (SPCT) is a promising venture with the potential to outperform Binance (BNB) and Litecoin (LTC).",
-      "date": "2023-07-31",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/will-vc-spectra-beat-binance-bnb-and-litecoin-ltc-in-profit-experts-say-yes.png?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/will-vc-spectra-beat-binance-bnb-and-litecoin-ltc-in-profit-experts-say-yes/"
-    },
-    {
-      "title": "Innovative Ways to Use Non-Fungible Tokens",
-      "description": "Non-Fungible Tokens (NFTs) have emerged as a game-changer in the digital world, revolutionizing the concept of ownership and creating new possibilities for artists, businesses, and individuals alike. ",
-      "date": "2023-07-30",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/innovative-ways-to-use-non-fungible-tokens.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/innovative-ways-to-use-non-fungible-tokens/"
-    },
-    {
-      "title": "How Are Fashion Brands Using NFTs? A Deep Dive into the NFT World with Ethereum, BNB and DogeMiyagi",
-      "description": "With innovative ideas and a fascinating journey, DogeMiyagi is becoming a leader in the NFT industry, amassing a devoted community and rapidly growing fan base. ",
-      "date": "2023-08-01",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-are-fashion-brands-using-nfts-a-deep-dive-into-the-nft-world-with-ethereum-bnb-and-dogemiyagi.png?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/how-are-fashion-brands-using-nfts-a-deep-dive-into-the-nft-world-with-ethereum-bnb-and-dogemiyagi/"
-    },
-    {
-      "title": "Impact of Blockchain on Media and Entertainment",
-      "description": "Blockchain technology is set to transform the future of content distribution, significantly impacting the media and entertainment industry.",
-      "date": "2023-07-30",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/impact-of-blockchain-on-media-and-entertainment.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/impact-of-blockchain-on-media-and-entertainment/"
-    },
-    {
-      "title": "Blockchain could save financial institutions $10B by 2030: Ripple",
-      "description": "Among the 300 finance professionals surveyed across 45 countries, 97% believe that blockchain will play a crucial role in faster payment systems within the next three years.",
-      "date": "2023-07-30",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blockchain-financial-institutions-2030-ripple.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/blockchain-financial-institutions-2030-ripple"
-    },
-    {
-      "title": "The Latest Metaverse Trends Surrounding NFT Art Galleries",
-      "description": "The metaverse's NFT art galleries have reshaped the art industry, making it more accessible, inclusive, and innovative.",
-      "date": "2023-07-31",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/the-latest-metaverse-trends-surrounding-nft-art-galleries.jpg?raw=true",
-      "news_thumbnail_url": "https://www.financemagnates.com/cryptocurrency/innovation/the-latest-metaverse-trends-surrounding-nft-art-galleries/"
-    },
-    {
-      "title": "Beeple Goes Punk With $208K NFT Purchase",
-      "description": "On Tuesday afternoon, Mike Winkelmann, better known as Beeple, bought CryptoPunk #4953 for 113.7 ETH, which cost him $208,000, according to data from Etherscan.",
-      "date": "2023-08-02",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/beeple-goes-punk-with-208k-nft-purchase.jpeg?raw=true",
-      "news_thumbnail_url": "https://www.coindesk.com/web3/2023/08/02/beeple-goes-punk-with-208k-nft-purchase/"
-    },
-    {
-      "title": "Revolutionizing Healthcare in Asia Pacific: The Role of Blockchain Technology",
-      "description": "Blockchain technology, once primarily associated with cryptocurrencies like Bitcoin, is now making significant strides in revolutionizing the healthcare sector in the Asia Pacific region.",
-      "date": "2023-08-02",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/revolutionizing-healthcare-in-asia-pacific-the-role-of-blockchain-technology.jpg?raw=true",
-      "news_thumbnail_url": "https://fagenwasanni.com/news/revolutionizing-healthcare-in-asia-pacific-the-role-of-blockchain-technology/50292/"
-    },
-    {
-      "title": "5 Top Cryptocurrencies to Buy This Week: BTC, SOL, XRP, SHIB, MATIC",
-      "description": "There have been both positive and negative developments in the last month. Yet, some cryptocurrencies are showing an early sign of bullishness.",
-      "date": "2023-08-14",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/5-top-cryptocurrencies-for-this-week.jpg?raw=true",
-      "news_thumbnail_url": "https://voiceofcrypto.online/analysis/5-top-cryptocurrencies-for-this-week/"
-    },
-    {
-      "title": "Crypto News: PayPal Issues Stablecoin",
-      "description": "Crypto has seen another significant stride towards mainstream adoption this week with the announcement of PayPal USD (PYUSD), a US-dollar-pegged stablecoin.",
-      "date": "2023-08-09",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-news-australia.jpg?raw=true",
-      "news_thumbnail_url": "https://www.forbes.com/advisor/au/investing/cryptocurrency/crypto-news-australia/"
-    },
-    {
-      "title": "Newly discovered Bitcoin wallet loophole let hackers steal $900K — SlowMist",
-      "description": "A series of attacks drained the wallets of BTC users by exploiting a faulty random seed generation algorithm.",
-      "date": "2023-08-11",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/newly-discovered-bitcoin-wallet-loophole-let-hackers-steal-funds-slow-mist.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/newly-discovered-bitcoin-wallet-loophole-let-hackers-steal-funds-slow-mist"
-    },
-    {
-      "title": "Star Trek trademarks for NFTs: The final frontier",
-      "description": "CBS Studios applied to use the name “Star Trek Continuum” for nonfungible tokens and crypto collectibles.",
-      "date": "2023-08-09",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/star-trek-trademark-nfts-the-final-frontier.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/star-trek-trademark-nfts-the-final-frontier"
-    },
-    {
-      "title": "PayPal rolls out stablecoin in latest Crypto payments push",
-      "description": "PayPal Holdings Inc. is rolling out a stablecoin, the first by a large financial company, and a potentially significant boost to the sluggish adoption of digital tokens for payments.",
-      "date": "2023-08-08",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/paypal-launches-stablecoin-in-crypto-push.jpg?raw=true",
-      "news_thumbnail_url": "https://www.moneycontrol.com/news/business/cryptocurrency/paypal-launches-stablecoin-in-crypto-push-11117191.html"
-    },
-    {
-      "title": "Bitcoin Options Tease $34K BTC Prices: Analysts Confirm Rally",
-      "description": " Derebit Bitcoin derivatives data shows that option open interest had surged by 2.18% and overall open interest has surged by 6.59% by press time.",
-      "date": "2023-08-10",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-options-hint-high-btc-price.jpg?raw=true",
-      "news_thumbnail_url": "https://voiceofcrypto.online/analysis/bitcoin-options-hint-high-btc-price/"
-    },
-    {
-      "title": "XRP’s Huge Win Against The SEC! Ripple Pumps 80% As The Market Prepares For Impact On Cryptos Like Scorpion Casino Token and Ethereum",
-      "description": "Last month, the almost 3-year-long case against Ripple Labs and its cryptocurrency XRP by the SEC finally ended with the crypto coming out as the victor.",
-      "date": "2023-08-10",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/xrps-huge-win-against-the-sec-ripple-pumps-80-as-the-market-prepares-for-impact-on-cryptos-like-scorpion-casino-token-and-ethereum.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/xrps-huge-win-against-the-sec-ripple-pumps-80-as-the-market-prepares-for-impact-on-cryptos-like-scorpion-casino-token-and-ethereum/"
-    },
-    {
-      "title": "25,000% Volume Increase in Bitcoin Gold (BTG) Followed by InQubeta (QUBE) presale surge: Unpacking the Reasons",
-      "description": "The crypto community has been enthralled by the recent surge in the trading volume of Bitcoin Gold and the success of InQubeta presale. ",
-      "date": "2023-08-10",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/25000-volume-increase-in-bitcoin-gold-btg-followed-by-inqubeta-qube-presale-surge-unpacking-the-reasons.png?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/25000-volume-increase-in-bitcoin-gold-btg-followed-by-inqubeta-qube-presale-surge-unpacking-the-reasons/"
-    },
-    {
-      "title": "Bitcoin Spark makes the Dogecoin Wallet Look Primitive",
-      "description": "Bitcoin Spark is regarded as the solution for the decentralized ecosystem since it contains a model for development and the potential for attracting worldwide participants.",
-      "date": "2023-08-10",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-spark-makes-the-dogecoin-wallet-look-primitive.png?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/bitcoin-spark-makes-the-dogecoin-wallet-look-primitive/"
-    },
-    {
-      "title": "Coinbase wins approval to offer crypto futures trading in US",
-      "description": "Coinbase Global has secured an approval to offer cryptocurrency futures to US retail customers.",
-      "date": "2023-08-16",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/coinbase-wins-approval-to-offer-crypto-futures-trading-in-us.jpg?raw=true",
-      "news_thumbnail_url": "https://timesofindia.indiatimes.com/world/us/coinbase-wins-approval-to-offer-crypto-futures-trading-in-us/articleshow/102773720.cms"
-    },
-    {
-      "title": "FC Barcelona Secures $132 Million For Blockchain And NFT Venture, Curve Finance Vows To Reimburse Users After $62 Million Hack",
-      "description": "Spanish football club FC Barcelona has received a €120 million ($132 million) investment for their Web 3.0 effort.",
-      "date": "2023-08-19",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/latest-crypto-news-fc-barcelona-secures-132-million-for-blockchain-and-nft-venture-curve-finance-vows-to-reimburse-users-after-62-million-hack.jpg?raw=true",
-      "news_thumbnail_url": "https://www.outlookindia.com/business/latest-crypto-news-fc-barcelona-secures-132-million-for-blockchain-and-nft-venture-curve-finance-vows-to-reimburse-users-after-62-million-hack-news-310297"
-    },
-    {
-      "title": "Coinbase gets approval to offer crypto futures to U.S. retail investors.",
-      "description": "Coinbase said Wednesday that it had secured regulatory approval from the National Futures Association to operate as a futures commission merchant.",
-      "date": "2023-08-16",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/coinbase-gets-approval-crypto-futures-us-retail-investors-cnbc-crypto-world.jpg?raw=true",
-      "news_thumbnail_url": "https://www.cnbc.com/video/2023/08/16/coinbase-gets-approval-crypto-futures-us-retail-investors-cnbc-crypto-world.html"
-    },
-    {
-      "title": "MetaMask, Banxa Roll Out '1-Click' Crypto Buys With Apple Pay",
-      "description": "Crypto wallet MetaMask now offers an optimized Apple Pay option thanks to fiat-to-crypto onramp and fintech firm Banxa.",
-      "date": "2023-08-14",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/metamask-banxa-roll-out-1-click-crypto-buys-apple-pay.jpg?raw=true",
-      "news_thumbnail_url": "https://decrypt.co/152393/metamask-banxa-roll-out-1-click-crypto-buys-apple-pay"
-    },
-    {
-      "title": "Coinbase Finally Wins Approval to List Crypto Futures in U.S.",
-      "description": "Cryptocurrency exchange Coinbase (COIN) can now list crypto futures in the U.S.",
-      "date": "2023-08-16",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/coinbase-finally-wins-approval-to-list-crypto-futures-in-us.jpg?raw=true",
-      "news_thumbnail_url": "https://www.coindesk.com/business/2023/08/16/coinbase-finally-wins-approval-to-list-crypto-futures-in-us/"
-    },
-    {
-      "title": "FarmVille Creator Zynga Reveals First Ethereum NFT Game: Sugartown",
-      "description": "The casual and mobile publisher behind FarmVille and Words With Friends will launch the Ethereum-based Sugartown later this year.",
-      "date": "2023-08-14",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/farmville-creator-zynga-reveals-first-ethereum-nft-game-sugartown.jpg?raw=true",
-      "news_thumbnail_url": "https://decrypt.co/152425/farmville-creator-zynga-reveals-first-ethereum-nft-game-sugartown"
-    },
-    {
-      "title": "Bitcoin Price Prediction: Analyst Foresees BTC Touching $70k; Pegs DigiToads for a 1500% Upsurge",
-      "description": " A recent forecast has set the stage for excitement as an analyst predicts Bitcoin (BTC) to soar to an impressive $70,000. ",
-      "date": "2023-08-19",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-price-prediction-analyst-foresees-btc-touching-70k-pegs-digitoads-for-a-1500-upsurge.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/bitcoin-price-prediction-analyst-foresees-btc-touching-70k-pegs-digitoads-for-a-1500-upsurge/"
-    },
-    {
-      "title": "Bitcoin Spark: The Next Big Thing After Shiba Inu’s Unexpected Rise?",
-      "description": "Bitcoin Spark’s low market cap, limited supply, utility, and innovative technology could see it rise by levels comparable to if not exceeding Shiba Inu’s unexpected rise.",
-      "date": "2023-08-21",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-spark-the-next-big-thing-after-shiba-inus-unexpected-rise.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/bitcoin-spark-the-next-big-thing-after-shiba-inus-unexpected-rise/"
-    },
-    {
-      "title": "Why TUK is the TESLA of the Crypto Market",
-      "description": "Since eTukTuk focuses on developing nations, its goals don’t just come under climate action but also social and economic welfare.",
-      "date": "2023-08-23",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/why-tuk-is-the-tesla-of-the-crypto-market.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/why-tuk-is-the-tesla-of-the-crypto-market/"
-    },
-    {
-      "title": "Bitcoin Bounces Off Recent Lows for Biggest Gain in Six Weeks",
-      "description": " Bitcoin posted its biggest gain in almost six weeks amid increased optimism that central banks will pause interest-rate hikes that had helped to dent the appeal of cryptocurrencies.",
-      "date": "2023-08-24",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-bounces-off-recent-lows.jpg?raw=true",
-      "news_thumbnail_url": "https://finance.yahoo.com/news/bitcoin-bounces-off-recent-lows-203402377.html"
-    },
-    {
-      "title": "Mastercard, Binance to end crypto card partnership",
-      "description": "Mastercard and crypto exchange Binance will end their four crypto card programmes in Argentina, Brazil, Colombia and Bahrain as of Sept. 22, a spokesperson for Mastercard said via email on Thursday.",
-      "date": "2023-08-25",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/mastercard-binance-to-end-crypto-card-partnership.jpg?raw=true",
-      "news_thumbnail_url": "https://www.businesstoday.in/latest/world/story/mastercard-binance-to-end-crypto-card-partnership-395553-2023-08-25"
-    },
-    {
-      "title": "Crypto’s New King: This New Coin Overtakes Solana (SOL) & Stellar (XLM) in Market Cap!",
-      "description": "The market cap of Solana (SOL) and Stellar (XLM) sits in the tens of billions of dollars. Yet, the current decline in crypto has seen this dip as a fresh project emerges, capitalizing on industries worth the same lucrative potential.",
-      "date": "2023-08-24",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/cryptos-new-king-this-new-coin-overtakes-solana-sol-stellar-xlm-in-market-cap.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/cryptos-new-king-this-new-coin-overtakes-solana-sol-stellar-xlm-in-market-cap/"
-    },
-    {
-      "title": "JPMorgan sees 'limited downside' for crypto near term after Bitcoin's recent rout",
-      "description": "The fading of some positive legal and regulatory news induced a wave of selling in recent weeks that is “still reverberating,” though the unwinding appears to be at its end phase",
-      "date": "2023-07-27",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/jpmorgan-sees-limited-downside-for-crypto-near-term-after-bitcoin-recent-rout.jpg?raw=true",
-      "news_thumbnail_url": "https://www.cnbctv18.com/cryptocurrency/jpmorgan-sees-limited-downside-for-crypto-near-term-after-bitcoin-recent-rout-17647241.htm"
-    },
-    {
-      "title": "Crypto market cautious after Fed’s Powell says US inflation still ‘too high’",
-      "description": "Crypto investor sentiment remains cautious, although JPMorgan Chase & Co. analysts report that downward price momentum in the market has slowed. ",
-      "date": "2023-08-28",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-market-cautious-fed-powell.jpg?raw=true",
-      "news_thumbnail_url": "https://finance.yahoo.com/news/crypto-market-cautious-fed-powell-021904099.html"
-    },
-    {
-      "title": "Breaking victim ‘trust’ in scammer is key to beat crypto scams, exchanges say",
-      "description": "Responsibility for crypto scams does not only belong to the cryptocurrency industry, it also involves banks, telecoms and social media platforms, Australian exchanges say.",
-      "date": "2023-08-31",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-breaking-victim-trust-in-scammer-is-key-to-beat-crypto-scams-exchanges-say.jpg",
-      "news_thumbnail_url": "https://cointelegraph.com/news/crypto-breaking-victim-trust-in-scammer-is-key-to-beat-crypto-scams-exchanges-say"
-    },
-    {
-      "title": "How to Generate Passive Income in Crypto?",
-      "description": "A passive income provides an enticing prospect in the ever-evolving cryptocurrency landscape. While crypto can be used to earn passively, there are also risks associated with it.",
-      "date": "2023-08-29",
-      "category": "Investment Strategy",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-to-generate-passive-income-in-crypto.jpg?raw=true",
-      "news_thumbnail_url": "https://www.bsc.news/post/how-to-generate-passive-income-in-crypto"
-    },
-    {
-      "title": "Indian PM Modi calls for global cryptocurrency framework at G20 Summit",
-      "description": "Indian Prime Minister Narendra Modi has called for global collaboration on formulating crypto regulations during the annual Group of 20 (G20) summit.",
-      "date": "2023-08-28",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/india-modi-global-cryptocurrency-framework-g20-summit.png?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/india-modi-global-cryptocurrency-framework-g20-summit"
-    },
-    {
-      "title": "Is ChatGPT a Viable Substitute for Crypto Trading Bots?",
-      "description": "Some traders might prefer to use ChatGPT to consult an AI agent for guidance, information, or opinions rather than depending on a trading bot to make decisions for them.",
-      "date": "2023-08-31",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/is-chatgpt-a-viable-substitute-for-crypto-trading-bots.png?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/is-chatgpt-a-viable-substitute-for-crypto-trading-bots/"
-    },
-    {
-      "title": "Big Boost For 'Dogefather' Elon Musk As X Gets License For Crypto Payments In The US",
-      "description": "Self-proclaimed ‘Dogefather’ Elon Musk got a big boost after X (formerly Twitter) was granted a crypto license in the US.",
-      "date": "2023-08-30",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/elon-musk-x-gets-license-for-crypto-payments-in-us-state.jpg?raw=true",
-      "news_thumbnail_url": "https://www.indiatimes.com/worth/news/elon-musk-x-gets-license-for-crypto-payments-in-us-state-613518.html"
-    },
-    {
-      "title": "Indian Billionaire Mukesh Ambani's Firm Will Explore Blockchain Platforms and CBDCs",
-      "description": "Reliance Industries Ltd. is entering the world of blockchain and central bank digital currencies (CBDCs), its Chairman and Asia's richest man, Mukesh Ambani, announced on Monday.",
-      "date": "2023-08-28",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ndian-billionaire-mukesh-ambanis-firm-will-explore-blockchain-platforms-and-cbdcs.webp?raw=true",
-      "news_thumbnail_url": "https://www.coindesk.com/policy/2023/08/28/indian-billionaire-mukesh-ambanis-firm-will-explore-blockchain-platforms-and-cbdcs/"
-    },
-    {
-      "title": "Shopify enables USDC payments via Solana Pay integration",
-      "description": "Shopify now supports Web3 commerce features like cross-border transactions and NFT loyalty schemes through its integration with Solana Pay",
-      "date": "2023-08-24",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/shopify-usdc-payments-solana-pay.jpg?raw=true",
-      "news_thumbnail_url": "https://blockworks.co/news/shopify-usdc-payments-solana-pay"
-    },
-    {
-      "title": "London Stock Exchange to create traditional assets trading platform on blockchain",
-      "description": "The LSE Group has been exploring how blockchain can improve traditional asset trading, according to an executive.",
-      "date": "2023-09-04",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/london-stock-exchange-to-create-traditional-assets-trading-platform-on-blockchain.png?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/london-stock-exchange-to-create-traditional-assets-trading-platform-on-blockchain"
-    },
-    {
-      "title": "SONY FILES PATENT FOR NFTS IN GAMING: WHAT THIS MEANS FOR THE INDUSTRY",
-      "description": "Sony, the multinational conglomerate behind the immensely popular PlayStation gaming consoles, has quietly filed a patent application in the United States concerning NFTs in the gaming space.",
-      "date": "2023-08-28",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/sony-files-patent-for-nfts-in-gaming-what-this-means-for-the-industry.jpg?raw=true",
-      "news_thumbnail_url": "https://nftnewstoday.com/2023/08/28/sony-files-patent-for-nfts-in-gaming-what-this-means-for-the-industry/"
-    },
-    {
-      "title": "Visa Expands Stablecoin Pilot Programs With Worldpay and Nuvei",
-      "description": "Visa has expanded its stablecoin settlement capabilities with Circle’s USDC stablecoin by using the Solana blockchain.",
-      "date": "2023-09-05",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/visa-expands-stablecoin-pilot-programs-worldpay-nuvei.jpg?raw=true",
-      "news_thumbnail_url": "https://www.pymnts.com/cryptocurrency/2023/visa-expands-stablecoin-pilot-programs-worldpay-nuvei/"
-    },
-    {
-      "title": "G20 nations close to sealing digital public infrastructure, debt, multilateral development banks, crypto pacts",
-      "description": "G20 negotiators are in the final lap of discussions on issues such as the implementation of two-pillar tax framework and capacity-building of countries to navigate it. ",
-      "date": "2023-09-07",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/g20-nations-close-to-sealing-dpi-debt-mdb-crypto-pacts.png?raw=true",
-      "news_thumbnail_url": "https://www.hindustantimes.com/india-news/g20-nations-close-to-sealing-dpi-debt-mdb-crypto-pacts-101694026150263.html"
-    },
-    {
-      "title": "How to Make Money with NFTs? A Simple Guide for Beginners",
-      "description": "Making money with NFTs can be rewarding and fun but involves risks and challenges. ",
-      "date": "2023-09-03",
-      "category": "Investment Strategy",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-to-make-money-with-nfts-a-simple-guide-for-beginners.png?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/how-to-make-money-with-nfts-a-simple-guide-for-beginners/"
-    },
-    {
-      "title": "Investors Eye G20 Summit for Insights into Crypto Regulation",
-      "description": "Crypto Regulation can encourage broader adoption of blockchain technology and cryptocurrencies",
-      "date": "2023-09-08",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/investors-eye-g20-summit-for-insights-into-crypto-regulation.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/investors-eye-g20-summit-for-insights-into-crypto-regulation/"
-    },
-    {
-      "title": "Binance Enables Deposits, Withdrawals for Ethereum on zkSync Era",
-      "description": "Binance, the world’s largest crypto exchange by trading volume, has completed the integration of Ethereum (ETH) on the zkSync Era network",
-      "date": "2023-09-08",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/protocol-latest-tech-news-crypto-blockchain.png?raw=true",
-      "news_thumbnail_url": "https://www.coindesk.com/tech/2023/08/28/protocol-latest-tech-news-crypto-blockchain/"
-    },
-    {
-      "title": "Concrete plan needed for crypto: G20 paper",
-      "description": "The crypto ecosystem needs comprehensive regulatory and licensing mechanisms for macroeconomic and financial stability, a synthesis paper said.",
-      "date": "2023-09-08",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/concrete-plan-needed-for-crypto-g20-paper.png?raw=true",
-      "news_thumbnail_url": "https://www.hindustantimes.com/india-news/concrete-plan-needed-for-crypto-g20-paper-101694111362041.html"
-    },
-    {
-      "title": "The Elon Musk-Dogecoin Connection; What This Means for Crypto Users",
-      "description": "Businesses that Elon Musk has endorsed have seen their share price go up, he has an army of loyal supporters who will believe in the cryptos he pushes, and the world’s media will report on what he does.",
-      "date": "2023-09-11",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/the-elon-musk-dogecoin-connection-what-this-means-for-crypto-users.png?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/the-elon-musk-dogecoin-connection-what-this-means-for-crypto-users/"
-    },
-    {
-      "title": "PayPal Introduces On and Off Ramps for Web3 Payments",
-      "description": " By adding Off Ramps, crypto wallet users in the U.S. can convert their crypto to USD directly from their wallets into their PayPal balance so they can shop, send, save, or transfer to their bank or debit card.",
-      "date": "2023-09-11",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/PayPal-Introduces-On-and-Off-Ramps-for-Web3-Payments.png?raw=true",
-      "news_thumbnail_url": "https://newsroom.paypal-corp.com/2023-09-11-PayPal-Introduces-On-and-Off-Ramps-for-Web3-Payments"
-    },
-    {
-      "title": "MetaMask interoperable with Bitcoin for first time",
-      "description": "New functionality from Consensys, dubbed MetaMask Snaps, will allow customization of MetaMask wallets to a much greater extent than was previously possible.",
-      "date": "2023-09-12",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/metamask-snaps-interoperable.png?raw=true",
-      "news_thumbnail_url": "https://blockworks.co/news/metamask-snaps-interoperable"
-    },
-    {
-      "title": "Diesel’s latest NFT drop could get you access to Milan Fashion Week",
-      "description": "Token holders can attend the upcoming show and mingle with other fans, buyers, fashion influencers, and editors.",
-      "date": "2023-09-13",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/diesel-nft-grants-milan-fashion-week-access.jpg?raw=true",
-      "news_thumbnail_url": "https://www.cryptopolitan.com/diesel-nft-grants-milan-fashion-week-access/"
-    },
-    {
-      "title": "India, Nigeria, Vietnam Lead Chainalysis Global Crypto Adoption Index",
-      "description": "Blockchain data analytics firm Chainalysis has finalized its latest Global Crypto Adoption Index.",
-      "date": "2023-09-14",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/india-nigeria-vietnam-lead-chainalysis-global-crypto-adoption-index.jpg?raw=true",
-      "news_thumbnail_url": "https://news.bitcoin.com/india-nigeria-vietnam-lead-chainalysis-global-crypto-adoption-index/"
-    },
-    {
-      "title": "Top 10 New Things in the World of Blockchain",
-      "description": "In the ever-evolving landscape of technology, the blockchain world continues to push the boundaries of innovation. ",
-      "date": "2023-09-15",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/top-10-new-things-in-the-world-of-blockchain.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/top-10-new-things-in-the-world-of-blockchain/"
-    },
-    {
-      "title": "SEC charges Stoner Cats in latest move against NFTs",
-      "description": " Stoner Cats is charged by SEC in latest move against NFTs",
-      "date": "2023-09-15",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/news2.png?raw=true",
-      "news_thumbnail_url": "https://www.ft.com/content/db35a2a1-addd-4ec6-8b6c-ac33521f00f0"
-    },
-    {
-      "title": "Grab Launches Web3 Wallet For Singaporean Users.",
-      "description": "Grab's Web3 Wallet Leverages Polygon's Technology, Supports SGD Payments and NFT Vouchers.",
-      "date": "2023-09-21",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/grab-launches-web3-wallet-for-singaporean-users.jpg?raw=true",
-      "news_thumbnail_url": "https://thedefiant.io/grab-launches-web3-wallet-for-singaporean-users"
-    },
-    {
-      "title": "NFTs, once hyped as the next big thing, now face 'worst moment'.",
-      "description": "NFTs, along with the rest of crypto, had a painful comeuppance last year.",
-      "date": "2023-09-01",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/nfts-once-hyped-as-the-next-big-thing-now-face-worst-moment.jpg?raw=true",
-      "news_thumbnail_url": "https://economictimes.indiatimes.com/tech/technology/nfts-once-hyped-as-the-next-big-thing-now-face-worst-moment/articleshow/103293788.cms"
-    },
-    {
-      "title": "Bitcoin gains legal recognition as digital currency in Shanghai, China.",
-      "description": "A similar report from another Chinese court in September recognized cryptocurrencies as virtual properties protected by law.",
-      "date": "2023-09-26",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-legally-recognised-digital-currency-shanghai-china.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/bitcoin-legally-recognised-digital-currency-shanghai-china"
-    },
-    {
-      "title": "¡Hola Argentina! Buenos Aires Brings Digital Identity To Millions of Citizens.",
-      "description": "Buenos Aires is teaming up with QuarkID to issue digital identification services to citizens in Buenos Aires.",
-      "date": "2023-09-28",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/YZPAHCRhP7p0FAq_EwQ2P.jpg?raw=true",
-      "news_thumbnail_url": "https://zksync.mirror.xyz/w4_Dyhbx1X2BEGpYNCn8rEAS_2uC1hV0qPQl_m5AChk"
-    },
-    {
-      "title": "Mastercard announces successful wrapped CBDC trial results.",
-      "description": "The experiment demonstrated that CBDCs could be wrapped to purchase NFTs on blockchains such as Ethereum.",
-      "date": "2023-10-12",
-      "category": "NFTs",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images//mastercard-announces-successful-wrapped-cbdc-blockchain-trial-results.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/mastercard-announces-successful-wrapped-cbdc-blockchain-trial-results"
-    },
-    {
-      "title": "SEGA EXPLORES BLOCKCHAIN GAMING WITH NFT-BASED TRADING CARD GAME.",
-      "description": "Gaming giant Sega is making strides into the blockchain gaming arena by co-developing a trading card NFT game based on its Sangokushi Taisen franchise.",
-      "date": "2023-10-16",
-      "category": "Blockchain",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/sega-explores-blockchain-gaming-with-nft-based-trading-card-game.jpg?raw=true",
-      "news_thumbnail_url": "https://nftnewstoday.com/2023/10/16/sega-explores-blockchain-gaming-with-nft-based-trading-card-game"
-    },
-    {
-      "title": "Bitcoin-accepting vendors increased 174% in 2023: BTC merchant tracker.",
-      "description": "The crowdsourced mapping data reports a concentration of Bitcoin-accepting merchants in Europe and Latin America.",
-      "date": "2024-01-08",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-accepting-vendors-increased-174-in-2023-btc-merchant-tracker.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/bitcoin-accepting-vendors-increased-174-in-2023-btc-merchant-tracker"
-    },
-    {
-      "title": "Wallet developer offers ‘on-chain bounty’ daring hackers to take $430K BTC.",
-      "description": "Zengo Wallet will reveal a wallet address containing up to 10 BTC and will also disclose two out of three security factors used to create it.",
-      "date": "2024-01-07",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/wallet-developer-offers-on-chain-bounty-daring-hackers-430k-btc.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/wallet-developer-offers-on-chain-bounty-daring-hackers-430k-btc"
-    },
-    {
-      "title": "Indian crypto platforms thrive amid FIU IND's foreign exchange notice.",
-      "description": "CoinDCX saw a 2000% increase in deposits while Mudrex clocked in deposits worth over $1 million and added 10,000 new users on its platform.",
-      "date": "2024-01-05",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/google_vignette.jpg",
-      "news_thumbnail_url": "https://www.moneycontrol.com/news/technology/indian-crypto-platforms-thrive-amid-fiu-inds-foreign-exchange-notice-12007051.html"
-    },
-    {
-      "title": "Bitcoin traders see breakout as bulls cling to $44K in ETF countdown.",
-      "description": "BTC price action is due a sea change in the coming days thanks to the spot Bitcoin ETF decision, while U.S. inflation data is also inbound.",
-      "date": "2024-01-07",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-traders-breakout-bulls-44k-etf.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/bitcoin-traders-breakout-bulls-44k-etf"
-    },
-    {
-      "title": "Bitcoin Likely to Drop After the Halving, JPMorgan Says.",
-      "description": "The bank’s analysis of open interest in bitcoin futures shows that the cryptocurrency is still considered overbought.",
-      "date": "2024-04-18",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-likely-to-drop-after-the-halving-jpmorgan-says.jpg?raw=true",
-      "news_thumbnail_url": "https://www.coindesk.com/markets/2024/04/18/bitcoin-likely-to-drop-after-the-halving-jpmorgan-says/?_gl=1*3sunjo*_up*MQ..*_ga*MTM5NzM5MjA4Ni4xNzEzNDQ2MDA3*_ga_VM3STRYVN8*MTcxMzQ0NjAwNi4xLjAuMTcxMzQ0NjAwNi4wLjAuMA.."
-    },
-    {
-      "title": "Free fall! Bitcoin slips 7% to fall below $65,000-mark",
-      "description": "Bitcoin slipped 7 percent on April 2 to fall below $65,000 as demand eases for dedicated US exchange-traded funds and bets retreat on a lax Federal Reserve policy.",
-      "date": "2024-04-02",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/free-fall-bitcoin-slips-7-to-fall-below-65000-mark-12563191l.jpg?raw=true",
-      "news_thumbnail_url": "https://www.moneycontrol.com/news/business/cryptocurrency/free-fall-bitcoin-slips-7-to-fall-below-65000-mark-12563191.html"
-    },
-    {
-      "title": "Hong Kong ETFs open the ‘door’ to Chinese RMB holders, issuers say.",
-      "description": "Fund issuers and industry experts hope Hong Kong’s new crypto ETFs will open the door for mainland Chinese investment in the future.",
-      "date": "2024-04-30",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/hong-kong-etfs-opens-door-chinese-investors.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/hong-kong-etfs-opens-door-chinese-investors"
-    },
-    {
-      "title": "Crypto Price Today: This article aims to provide insights into the current state of the cryptocurrency landscape",
-      "description": "n today’s update, we’ll explore the latest movements in the crypto market.",
-      "date": "2024-04-30",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-price-today-bitcoin-marginally-up-hnt-soars.jpg?raw=true",
-      "news_thumbnail_url": "https://www.analyticsinsight.net/crypto-price-today-bitcoin-marginally-up-hnt-soars/"
-    },
-    {
-      "title": "BTC price clings to $62K as Bitcoin bulls suffer post-halving ‘boredom’.",
-      "description": "Bitcoin may be preparing for trend continuation, but on short timeframes, BTC price behavior is inspiring no one.",
-      "date": "2024-05-08",
-      "category": "Bitcoin",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/btc-price-62k-bitcoin-bulls-suffer-post-halving.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/btc-price-62k-bitcoin-bulls-suffer-post-halving"
-    },
-    {
-      "title": "Price analysis 5/8: BTC, ETH, BNB, SOL, XRP, DOGE, TON, ADA, AVAX, SHIB.",
-      "description": "Bitcoin’s dull range-bound action is likely to continue for a few more days as the bulls and the bears battle for control of BTC price..",
-      "date": "2024-05-09",
-      "category": "Cryptocurrency",
-      "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/price-analysis-5-8-btc-eth-bnb-sol-xrp-doge-ton-ada-avax-shib.jpg?raw=true",
-      "news_thumbnail_url": "https://cointelegraph.com/news/price-analysis-5-8-btc-eth-bnb-sol-xrp-doge-ton-ada-avax-shib"
-    },
-    {
-          "title": "Blockchain gaming investments reached nearly $1B in April.",
-          "description": "The investment figures come alongside a record high 2.9 million daily unique active wallets (dUAW) for the month.",
-          "date": "2024-05-18",
-          "category": "Blockchain",
-          "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blockchain-gaming-investments-1-billion-nft-web3-april.jpg?raw=true",
-          "news_thumbnail_url": "https://cointelegraph.com/news/blockchain-gaming-investments-1-billion-nft-web3-april"
-        },
-    {
-          "title": "Bitcoin whale demand accelerates, but price jump could ‘take weeks’ — Analysts",
-          "description": "The break in Bitcoin’s daily downtrend and heightened demand from whales indicate Bitcoin’s price could jump, but analysts expected it to take a few weeks.",
-          "date": "2024-05-16",
-          "category": "Bitcoin",
-          "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-whale-demand-surges-price-jump-could-take-weeks-cryptoquant.jpg?raw=true",
-          "news_thumbnail_url": "https://cointelegraph.com/news/bitcoin-whale-demand-surges-price-jump-could-take-weeks-cryptoquant"
-        }
-  ]
+   "news":[
+      {
+         "title":"Bitcoin Price Rally Stalls For Now, Here’s Why",
+         "description":"After the Bitcoin price hit a new yearly high of $32,410 last Friday, June 23, the price rally has stalled for the time being. While the long-term outlook looks extremely bullish due to various Bitcoin spot ETF applications, there are currently a few reasons in the short-term which prevent a continuation for now.",
+         "date":"2023-06-28",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-price-rally-stalls-for-now-heres-why.jpg?raw=true",
+         "news_thumbnail_url":"https://www.newsbtc.com/news/bitcoin/bitcoin-price-rally-stalls-for-now-heres-why/"
+      },
+      {
+         "title":"Crypto Miners Sent Over $1B Bitcoin to Exchanges Over Two Weeks: CryptoQuant",
+         "description":"Bitcoin (BTC) miners have sent over a billion dollars worth of the asset to crypto exchanges over the past two weeks but not necessarily to sell the tokens.",
+         "date":"2023-06-28",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-miners-sent-over-1b-bitcoin-to-exchanges-over-two-weeks-cryptoquant.jpg?raw=true",
+         "news_thumbnail_url":"https://www.coindesk.com/tech/2023/06/28/crypto-miners-sent-over-1b-bitcoin-to-exchanges-over-two-weeks-cryptoquant/"
+      },
+      {
+         "title":"Mastercard to continue crypto foray with beta launch of ‘blockchain app store’",
+         "description":"The credit card giant is expected to release the beta version of the product Multi-Token Network (MTN) this summer",
+         "date":"2023-06-29",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/mastercard-blockchain-app-store-beta.jpg?raw=true",
+         "news_thumbnail_url":"https://blockworks.co/news/mastercard-blockchain-app-store-beta"
+      },
+      {
+         "title":"What are blue-chip NFTs, and how to find them?",
+         "description":"Blue-chip nonfungible tokens (NFTs) are coveted for their reputation, quality and potential for long-term value appreciation, just like blue-chip stocks in conventional finance.",
+         "date":"2023-06-30",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/what-are-blue-chip-nfts-and-how-can-we-find-them.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/explained/what-are-blue-chip-nfts-and-how-can-we-find-them"
+      },
+      {
+         "title":"Can You Buy Crypto With A Mastercard?",
+         "description":"By partnering with established cryptocurrency platforms, Mastercard enables secure purchase, storage, and management of digital assets. It aims to ensure transparency and immutability in financial transactions. ",
+         "date":"2023-06-29",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/can-you-buy-crypto-with-a-mastercard.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/can-you-buy-crypto-with-a-mastercard/"
+      },
+      {
+         "title":"Crypto's Role in Shaping the Future of Finance",
+         "description":"The expectation of persistent and prolonged inflation, coupled with geopolitical uncertainty, will drive the behavior of parking the worldwide wealth in gold, stocks, real estate, and ultimately bitcoin and other digital assets.",
+         "date":"2023-06-29",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/cryptos-role-in-shaping-the-future-of-finance.jpeg?raw=true",
+         "news_thumbnail_url":"https://www.nasdaq.com/articles/cryptos-role-in-shaping-the-future-of-finance"
+      },
+      {
+         "title":"9 Latest NFT Developments in 2023",
+         "description":"The market for non-fungible tokens has become increasingly accepted over the past few years, and this trend shows no signs of slowing down. ",
+         "date":"2023-07-04",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/9-latest-nft-developments-in-2023.jpg?raw=true",
+         "news_thumbnail_url":"https://cryptosaurus.tech/9-latest-nft-developments-in-2023/"
+      },
+      {
+         "title":"Ronaldo to launch second NFT collection 'ForeverCR7: The GOAT' today",
+         "description":"Cristiano Ronaldo announced his partnership with the world's leading cryptocurrency exchange, Binance, unveiling its second exclusive NFT collection, ForeverCR7: The GOAT.",
+         "date":"2023-07-03",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ronaldo-to-launch-its-second-nft-collection-forevercr7-the-goat-today.png?raw=true",
+         "news_thumbnail_url":"https://www.business-standard.com/markets/news/ronaldo-to-launch-its-second-nft-collection-forevercr7-the-goat-today-123070300185_1.html"
+      },
+      {
+         "title":"How Are NFTs Redefining Content Marketing?",
+         "description":"While the majority of the population was unaware of these one-of-a-kind digital tokens, a lot of companies jumped to adopt NFTs. ",
+         "date":"2023-07-10",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-are-nfts-redefining-content-marketing.jpg?raw=true",
+         "news_thumbnail_url":"https://www.lcx.com/how-are-nfts-redefining-content-marketing/"
+      },
+      {
+         "title":"Blue-Chip NFTs: What They Are and Where to Find Them?",
+         "description":"Blue-chip nonfungible tokens (NFTs), like blue-chip equities in traditional finance, are prized for their standing, caliber, and potential for long-term value growth. ",
+         "date":"2023-07-08",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blue-chip-nfts-what-they-are-and-where-to-find-them.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/blue-chip-nfts-what-they-are-and-where-to-find-them/"
+      },
+      {
+         "title":"7 Strategies That Will Make A Big Difference In Your Cryptocurrency Investment",
+         "description":"Life-changing strategies that will elevate your crypto investment game and put you in the top percentile of crypto earners. ",
+         "date":"2023-07-10",
+         "category":"Investment Strategy",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/7-best-strategies-for-making-crypto-investments.jpeg?raw=true",
+         "news_thumbnail_url":"https://www.techloy.com/7-best-strategies-for-making-crypto-investments/"
+      },
+      {
+         "title":"Atpbot Launches The Easiest Automated Crypto Trading Bot For Investors",
+         "description":"ATPBot focuses on quantitative trading strategy development and services. It uses artificial intelligence to develop and implement quantitative trading strategies for users.",
+         "date":"2023-07-12",
+         "category":"Investment Strategy",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/atpbot-launches-the-easiest-automated-crypto-trading-bot-for-investors.jpg?raw=true",
+         "news_thumbnail_url":"https://www.crypto-news-flash.com/atpbot-launches-the-easiest-automated-crypto-trading-bot-for-investors/"
+      },
+      {
+         "title":"Bitcoin Price Prediction: ETF Enthusiasm Fades as Market Dynamics Shift",
+         "description":"After a period of excitement surrounding the potential approval of Bitcoin exchange-traded funds (ETFs), the market sentiment has shifted, leading to a decline in Bitcoin's price. ",
+         "date":"2023-07-10",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-price-prediction-etf-enthusiasm-fades-as-market-dynamics-shift.jpg?raw=true",
+         "news_thumbnail_url":"https://cryptonews.com/news/bitcoin-price-prediction-etf-enthusiasm-fades-as-market-dynamics-shift.htm"
+      },
+      {
+         "title":"Bitcoin Price Prediction: Can Bitcoin Reach $1,000,000 by 2025?",
+         "description":"We all know that BTC has rallied more than 80% since the start of this year. With such massive and unexpected gains, it has surely outpaced several other major assets and given tremendous returns to those who have bought BTC at dips.",
+         "date":"2023-07-06",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/cryptocurrency-bitcoin-prediction.jpg?raw=true",
+         "news_thumbnail_url":"https://www.forbes.com/advisor/in/investing/cryptocurrency/bitcoin-prediction/"
+      },
+      {
+         "title":"Elon Musk's New ChatGPT Competitor Boosts AI-Related Crypto Tokens",
+         "description":"Crypto tokens that are related to Artificial intelligence (AI) rose more than 3% on Wednesday, after Tesla and SpaceX CEO Elon Musk unveiled a new AI company called xAI, as an alternative to popular chatbot ChatGPT.",
+         "date":"2023-07-12",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens.jpg?raw=true",
+         "news_thumbnail_url":"https://www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/"
+      },
+      {
+         "title":"Blockchain Apps and NFTs get the Green Light from Google Play ",
+         "description":"In a significant move towards embracing blockchain technology and non-fungible tokens (NFTs), Google has intended to integrate these innovative digital experiences into its Android platform.",
+         "date":"2023-07-13",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blockchain-apps-and-nfts-get-the-green-light-from-google-play.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/blockchain-apps-and-nfts-get-the-green-light-from-google-play/"
+      },
+      {
+         "title":"Ethereum Drives Use Case For ‘Zero-Knowledge Proof’, XRP Becomes 4th Largest Crypto",
+         "description":"Ethereum’s scaling protocols have driven the use cases for zero-knowledge proofs in 2023, ZK Validator, a zero-knowledge validation company, reported.",
+         "date":"2023-07-14",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/latest-crypto-news-ethereum-drives-use-case-for-zero-knowledge-proof-xrp-becomes-4th-largest-crypto-news.jpg?raw=true",
+         "news_thumbnail_url":"https://www.outlookindia.com/business/latest-crypto-news-ethereum-drives-use-case-for-zero-knowledge-proof-xrp-becomes-4th-largest-crypto-news-302832"
+      },
+      {
+         "title":"First Mover Americas: Crypto AI Tokens Rally After Musk Unveils New Company",
+         "description":"Artificial intelligence (AI) related crypto tokens posted gains after Tesla and SpaceX CEO Elon Musk on Wednesday unveiled a new AI company called xAI as an alternative to popular chatbot ChatGPT.",
+         "date":"2023-07-13",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/first-mover-americas-crypto-ai-tokens-rally-after-musk-unveils-new-company.jpg?raw=true",
+         "news_thumbnail_url":"https://www.coindesk.com/markets/2023/07/13/first-mover-americas-crypto-ai-tokens-rally-after-musk-unveils-new-company/"
+      },
+      {
+         "title":"Breaking: Judge rules XRP is not a security in SEC's case against Ripple",
+         "description":"Ripple Labs scored a victory in the United States District Court in the Southern District of New York on July 13 as Judge Analisa Torres ruled partially in favor of the company in a case brought forth by the Securities and Exchange Commission.",
+         "date":"2023-07-13",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ripple-wins-case-against-sec-as-judge-rules-xrp-is-not-a-security.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/ripple-wins-case-against-sec-as-judge-rules-xrp-is-not-a-security"
+      },
+      {
+         "title":"NFTs in Traditional Art: Impact on Crypto Exchanges",
+         "description":"Transformative potential of NFTs highlights the innovative intersection of art, technology, and finance.",
+         "date":"2023-07-17",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/nfts-in-traditional-art-impact-on-crypto-exchanges.png?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/nfts-in-traditional-art-impact-on-crypto-exchanges/"
+      },
+      {
+         "title":"Celo blockchain proposes return to Ethereum ecosystem, transition to L2",
+         "description":"CLabs, the organization responsible for developing the Celo blockchain, is seeking to return to the Ethereum ecosystem by transitioning from an independent EVM-compatible layer-1 blockchain to an Ethereum layer-2 solution. ",
+         "date":"2023-07-17",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/celo-blockchain-proposes-return-to-ethereum-ecosystem-transition-to-l2.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/celo-blockchain-proposes-return-to-ethereum-ecosystem-transition-to-l2"
+      },
+      {
+         "title":"Cryptocurrency Crime Plummets by 65% in 2023, Research Shows",
+         "description":"The report, titled Crypto Crime Midyear Update, shows that cryptocurrency inflows to known illicit entities have declined by a staggering US$5.2 billion (a 65% decrease) compared to last year",
+         "date":"2023-07-18",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/cryptocurrency-crime-plummets-by-65-in-2023-research-shows.jpg",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/cryptocurrency-crime-plummets-by-65-in-2023-research-shows/"
+      },
+      {
+         "title":"How Chimpzee is Harnessing The Power of AI and NFTs To Fight Climate Change, Save Animals and Earn Income",
+         "description":"In a world where environmental conservation has become a pivotal concern, Chimpzee (CHMPZ) emerges as a Web3 project that integrates the power of blockchain technology and Artificial Intelligence to protect the planet’s precious forests and endangered animal species. ",
+         "date":"2023-07-18",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-chimpzee-is-harnessing-the-power-of-ai-and-nfts-to-fight-climate-change-save-animals-and-earn-income.png?raw=true",
+         "news_thumbnail_url":"https://analyticsinsight.net/how-chimpzee-is-harnessing-the-power-of-ai-and-nfts-to-fight-climate-change-save-animals-and-earn-income/"
+      },
+      {
+         "title":"Amidst the Market Dip, Cardano (ADA) Investors Turn to DigiToads (TOADS) for a Potential 200x ROI",
+         "description":"DigiToads is gaining traction at a fast pace within the crypto landscape. With its presale launched in the first half of the year, over $6.1 million has been raised, which is a huge accomplishment. ",
+         "date":"2023-07-20",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/amidst-the-market-dip-cardano-ada-investors-turn-to-digitoads-toads-for-a-potential-200x-roi.png?raw=true",
+         "news_thumbnail_url":"analyticsinsight.net/amidst-the-market-dip-cardano-ada-investors-turn-to-digitoads-toads-for-a-potential-200x-roi/"
+      },
+      {
+         "title":"Jack Dorsey’s historic tweet-turned-NFT: What’s the latest?",
+         "description":"Jack Dorsey's first-ever Tweet, turned NFT, which was bought for $2.9 million, now has a bid of just $1.14.",
+         "date":"2023-07-19",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/jack-dorsey-historic-tweet-turned-nft-latest.png?raw=true",
+         "news_thumbnail_url":"https://www.cryptopolitan.com/jack-dorsey-historic-tweet-turned-nft-latest/"
+      },
+      {
+         "title":"Most G20 members back RBI’s views on crypto",
+         "description":"Majority of G20 members are now in sync with the view of India’s central bank that cryptocurrencies could pose huge risks to the stability of the financial system.",
+         "date":"2023-07-25",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/g20-members-align-with-india-s-central-bank-on-cryptocurrency-risks-working-towards-international-regulatory-framework.png?raw=true",
+         "news_thumbnail_url":"https://www.hindustantimes.com/india-news/g20-members-align-with-india-s-central-bank-on-cryptocurrency-risks-working-towards-international-regulatory-framework-101690226539412.html"
+      },
+      {
+         "title":"SHIB vs. Tradecurve: Why the Underdog is Winning the Crypto Race",
+         "description":"In June, most of the cryptocurrency market crashed following new SEC restrictions. Tradecurve (TCRV) however, increased in value by 80%. ",
+         "date":"2023-07-24",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/shib-vs-tradecurve-why-the-underdog-is-winning-the-crypto-race.png?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/shib-vs-tradecurve-why-the-underdog-is-winning-the-crypto-race/"
+      },
+      {
+         "title":"Crypto Daily Roundup: X Token Surged 5,000% Overnight",
+         "description":"After Elon’s Twitter rebranding to ‘X’, a number of new meme coins have launched with the X token rallying up 4,300% overnight.",
+         "date":"2023-07-26",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-daily-roundup-x-token-surged-5000-overnight.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/crypto-daily-roundup-x-token-surged-5000-overnight/"
+      },
+      {
+         "title":"9 Tips for Using AI for a Successful Crypto Trading",
+         "description":"From predicting market trends to enhancing security measures, AI has found its place within the cryptocurrency sector, providing unique advantages only made possible through its automated process-oriented techniques. ",
+         "date":"2023-07-25",
+         "category":"Investment Strategy",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/9-tips-for-using-ai-for-a-successful-crypto-trading.png?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/9-tips-for-using-ai-for-a-successful-crypto-trading/"
+      },
+      {
+         "title":"Lacoste's New Virtual Store Has Exclusive Perks for Ethereum NFT Holders",
+         "description":"Apparel brand Lacoste's new digital storefront provides an immersive shopping experience—and NFT holders get full access.",
+         "date":"2023-07-26",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/lacoste-new-virtual-store-exclusive-perks-ethereum-nft-holders.jpg?raw=true",
+         "news_thumbnail_url":"https://decrypt.co/150014/lacoste-new-virtual-store-exclusive-perks-ethereum-nft-holders"
+      },
+      {
+         "title":"BlackRock CEO Highlights Increasing Investor Demand for Crypto, Is it time to invest in DigiToads (TOADS) and Flocki Inu (FLOCKI)?",
+         "description":"BlackRock CEO Larry Fink recently indicated a rising interest in cryptocurrencies among traditional gold investors. ",
+         "date":"2023-07-27",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blackrock-ceo-highlights-increasing-investor-demand-for-crypto-is-it-time-to-invest-in-digitoads-toads-and-flocki-inu-flocki.png?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/blackrock-ceo-highlights-increasing-investor-demand-for-crypto-is-it-time-to-invest-in-digitoads-toads-and-flocki-inu-flocki/"
+      },
+      {
+         "title":"Fancy Crypto, Happy Miner, IDMining, NFTProX – How To Identify Crypto Cloud Mining Scams?",
+         "description":"In a typical cloud mining scam, the scammers usually set up a website that looks legitimate. Then they claim to offer high returns on investment. However, once you invest your money, the scammers will take it and disappear. ",
+         "date":"2023-07-27",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/fancy-crypto-happy-miner-idmining-nftprox-how-to-identify-crypto-cloud-mining-scams.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/fancy-crypto-happy-miner-idmining-nftprox-how-to-identify-crypto-cloud-mining-scams/"
+      },
+      {
+         "title":"NFT-optimized Palm Network to become a Polygon ZK Supernet",
+         "description":"The Ethereum sidechain will transition to a proof-of-stake network this August and become a full-fledged layer 2 based on Polygon’s zero-knowledge protocol in 2024.",
+         "date":"2023-07-28",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/nft-palm-network-to-become-polygon-zk-supernet.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/nft-palm-network-to-become-polygon-zk-supernet"
+      },
+      {
+         "title":"Discover the Benefits of Crypto Staking: Profitable Passive Income",
+         "description":"Staking is a unique passive income system that has become an entry point into the crypto world for many enthusiasts and has many benefits.",
+         "date":"2023-07-28",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/discover-the-benefits-of-crypto-staking-profitable-passive-income.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/discover-the-benefits-of-crypto-staking-profitable-passive-income/"
+      },
+      {
+         "title":"Benefits of Combining Blockchain Technology and Internet of Things.",
+         "description":"The eventual fate of business processes is being re-imagined by the cooperative energy of two progressive advances: Blockchain and the Internet of Things (IoT).",
+         "date":"2023-07-29",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/benefits-of-combining-blockchain-technology-and-internet-of-things.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/benefits-of-combining-blockchain-technology-and-internet-of-things/"
+      },
+      {
+         "title":"Will VC Spectra Beat Binance (BNB) and Litecoin (LTC) in Profit? Experts Say Yes",
+         "description":"With over $2.4 million raised during private presale events, VC Spectra (SPCT) is a promising venture with the potential to outperform Binance (BNB) and Litecoin (LTC).",
+         "date":"2023-07-31",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/will-vc-spectra-beat-binance-bnb-and-litecoin-ltc-in-profit-experts-say-yes.png?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/will-vc-spectra-beat-binance-bnb-and-litecoin-ltc-in-profit-experts-say-yes/"
+      },
+      {
+         "title":"Innovative Ways to Use Non-Fungible Tokens",
+         "description":"Non-Fungible Tokens (NFTs) have emerged as a game-changer in the digital world, revolutionizing the concept of ownership and creating new possibilities for artists, businesses, and individuals alike. ",
+         "date":"2023-07-30",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/innovative-ways-to-use-non-fungible-tokens.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/innovative-ways-to-use-non-fungible-tokens/"
+      },
+      {
+         "title":"How Are Fashion Brands Using NFTs? A Deep Dive into the NFT World with Ethereum, BNB and DogeMiyagi",
+         "description":"With innovative ideas and a fascinating journey, DogeMiyagi is becoming a leader in the NFT industry, amassing a devoted community and rapidly growing fan base. ",
+         "date":"2023-08-01",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-are-fashion-brands-using-nfts-a-deep-dive-into-the-nft-world-with-ethereum-bnb-and-dogemiyagi.png?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/how-are-fashion-brands-using-nfts-a-deep-dive-into-the-nft-world-with-ethereum-bnb-and-dogemiyagi/"
+      },
+      {
+         "title":"Impact of Blockchain on Media and Entertainment",
+         "description":"Blockchain technology is set to transform the future of content distribution, significantly impacting the media and entertainment industry.",
+         "date":"2023-07-30",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/impact-of-blockchain-on-media-and-entertainment.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/impact-of-blockchain-on-media-and-entertainment/"
+      },
+      {
+         "title":"Blockchain could save financial institutions $10B by 2030: Ripple",
+         "description":"Among the 300 finance professionals surveyed across 45 countries, 97% believe that blockchain will play a crucial role in faster payment systems within the next three years.",
+         "date":"2023-07-30",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blockchain-financial-institutions-2030-ripple.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/blockchain-financial-institutions-2030-ripple"
+      },
+      {
+         "title":"The Latest Metaverse Trends Surrounding NFT Art Galleries",
+         "description":"The metaverse's NFT art galleries have reshaped the art industry, making it more accessible, inclusive, and innovative.",
+         "date":"2023-07-31",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/the-latest-metaverse-trends-surrounding-nft-art-galleries.jpg?raw=true",
+         "news_thumbnail_url":"https://www.financemagnates.com/cryptocurrency/innovation/the-latest-metaverse-trends-surrounding-nft-art-galleries/"
+      },
+      {
+         "title":"Beeple Goes Punk With $208K NFT Purchase",
+         "description":"On Tuesday afternoon, Mike Winkelmann, better known as Beeple, bought CryptoPunk #4953 for 113.7 ETH, which cost him $208,000, according to data from Etherscan.",
+         "date":"2023-08-02",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/beeple-goes-punk-with-208k-nft-purchase.jpeg?raw=true",
+         "news_thumbnail_url":"https://www.coindesk.com/web3/2023/08/02/beeple-goes-punk-with-208k-nft-purchase/"
+      },
+      {
+         "title":"Revolutionizing Healthcare in Asia Pacific: The Role of Blockchain Technology",
+         "description":"Blockchain technology, once primarily associated with cryptocurrencies like Bitcoin, is now making significant strides in revolutionizing the healthcare sector in the Asia Pacific region.",
+         "date":"2023-08-02",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/revolutionizing-healthcare-in-asia-pacific-the-role-of-blockchain-technology.jpg?raw=true",
+         "news_thumbnail_url":"https://fagenwasanni.com/news/revolutionizing-healthcare-in-asia-pacific-the-role-of-blockchain-technology/50292/"
+      },
+      {
+         "title":"5 Top Cryptocurrencies to Buy This Week: BTC, SOL, XRP, SHIB, MATIC",
+         "description":"There have been both positive and negative developments in the last month. Yet, some cryptocurrencies are showing an early sign of bullishness.",
+         "date":"2023-08-14",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/5-top-cryptocurrencies-for-this-week.jpg?raw=true",
+         "news_thumbnail_url":"https://voiceofcrypto.online/analysis/5-top-cryptocurrencies-for-this-week/"
+      },
+      {
+         "title":"Crypto News: PayPal Issues Stablecoin",
+         "description":"Crypto has seen another significant stride towards mainstream adoption this week with the announcement of PayPal USD (PYUSD), a US-dollar-pegged stablecoin.",
+         "date":"2023-08-09",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-news-australia.jpg?raw=true",
+         "news_thumbnail_url":"https://www.forbes.com/advisor/au/investing/cryptocurrency/crypto-news-australia/"
+      },
+      {
+         "title":"Newly discovered Bitcoin wallet loophole let hackers steal $900K — SlowMist",
+         "description":"A series of attacks drained the wallets of BTC users by exploiting a faulty random seed generation algorithm.",
+         "date":"2023-08-11",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/newly-discovered-bitcoin-wallet-loophole-let-hackers-steal-funds-slow-mist.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/newly-discovered-bitcoin-wallet-loophole-let-hackers-steal-funds-slow-mist"
+      },
+      {
+         "title":"Star Trek trademarks for NFTs: The final frontier",
+         "description":"CBS Studios applied to use the name “Star Trek Continuum” for nonfungible tokens and crypto collectibles.",
+         "date":"2023-08-09",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/star-trek-trademark-nfts-the-final-frontier.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/star-trek-trademark-nfts-the-final-frontier"
+      },
+      {
+         "title":"PayPal rolls out stablecoin in latest Crypto payments push",
+         "description":"PayPal Holdings Inc. is rolling out a stablecoin, the first by a large financial company, and a potentially significant boost to the sluggish adoption of digital tokens for payments.",
+         "date":"2023-08-08",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/paypal-launches-stablecoin-in-crypto-push.jpg?raw=true",
+         "news_thumbnail_url":"https://www.moneycontrol.com/news/business/cryptocurrency/paypal-launches-stablecoin-in-crypto-push-11117191.html"
+      },
+      {
+         "title":"Bitcoin Options Tease $34K BTC Prices: Analysts Confirm Rally",
+         "description":" Derebit Bitcoin derivatives data shows that option open interest had surged by 2.18% and overall open interest has surged by 6.59% by press time.",
+         "date":"2023-08-10",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-options-hint-high-btc-price.jpg?raw=true",
+         "news_thumbnail_url":"https://voiceofcrypto.online/analysis/bitcoin-options-hint-high-btc-price/"
+      },
+      {
+         "title":"XRP’s Huge Win Against The SEC! Ripple Pumps 80% As The Market Prepares For Impact On Cryptos Like Scorpion Casino Token and Ethereum",
+         "description":"Last month, the almost 3-year-long case against Ripple Labs and its cryptocurrency XRP by the SEC finally ended with the crypto coming out as the victor.",
+         "date":"2023-08-10",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/xrps-huge-win-against-the-sec-ripple-pumps-80-as-the-market-prepares-for-impact-on-cryptos-like-scorpion-casino-token-and-ethereum.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/xrps-huge-win-against-the-sec-ripple-pumps-80-as-the-market-prepares-for-impact-on-cryptos-like-scorpion-casino-token-and-ethereum/"
+      },
+      {
+         "title":"25,000% Volume Increase in Bitcoin Gold (BTG) Followed by InQubeta (QUBE) presale surge: Unpacking the Reasons",
+         "description":"The crypto community has been enthralled by the recent surge in the trading volume of Bitcoin Gold and the success of InQubeta presale. ",
+         "date":"2023-08-10",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/25000-volume-increase-in-bitcoin-gold-btg-followed-by-inqubeta-qube-presale-surge-unpacking-the-reasons.png?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/25000-volume-increase-in-bitcoin-gold-btg-followed-by-inqubeta-qube-presale-surge-unpacking-the-reasons/"
+      },
+      {
+         "title":"Bitcoin Spark makes the Dogecoin Wallet Look Primitive",
+         "description":"Bitcoin Spark is regarded as the solution for the decentralized ecosystem since it contains a model for development and the potential for attracting worldwide participants.",
+         "date":"2023-08-10",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-spark-makes-the-dogecoin-wallet-look-primitive.png?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/bitcoin-spark-makes-the-dogecoin-wallet-look-primitive/"
+      },
+      {
+         "title":"Coinbase wins approval to offer crypto futures trading in US",
+         "description":"Coinbase Global has secured an approval to offer cryptocurrency futures to US retail customers.",
+         "date":"2023-08-16",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/coinbase-wins-approval-to-offer-crypto-futures-trading-in-us.jpg?raw=true",
+         "news_thumbnail_url":"https://timesofindia.indiatimes.com/world/us/coinbase-wins-approval-to-offer-crypto-futures-trading-in-us/articleshow/102773720.cms"
+      },
+      {
+         "title":"FC Barcelona Secures $132 Million For Blockchain And NFT Venture, Curve Finance Vows To Reimburse Users After $62 Million Hack",
+         "description":"Spanish football club FC Barcelona has received a €120 million ($132 million) investment for their Web 3.0 effort.",
+         "date":"2023-08-19",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/latest-crypto-news-fc-barcelona-secures-132-million-for-blockchain-and-nft-venture-curve-finance-vows-to-reimburse-users-after-62-million-hack.jpg?raw=true",
+         "news_thumbnail_url":"https://www.outlookindia.com/business/latest-crypto-news-fc-barcelona-secures-132-million-for-blockchain-and-nft-venture-curve-finance-vows-to-reimburse-users-after-62-million-hack-news-310297"
+      },
+      {
+         "title":"Coinbase gets approval to offer crypto futures to U.S. retail investors.",
+         "description":"Coinbase said Wednesday that it had secured regulatory approval from the National Futures Association to operate as a futures commission merchant.",
+         "date":"2023-08-16",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/coinbase-gets-approval-crypto-futures-us-retail-investors-cnbc-crypto-world.jpg?raw=true",
+         "news_thumbnail_url":"https://www.cnbc.com/video/2023/08/16/coinbase-gets-approval-crypto-futures-us-retail-investors-cnbc-crypto-world.html"
+      },
+      {
+         "title":"MetaMask, Banxa Roll Out '1-Click' Crypto Buys With Apple Pay",
+         "description":"Crypto wallet MetaMask now offers an optimized Apple Pay option thanks to fiat-to-crypto onramp and fintech firm Banxa.",
+         "date":"2023-08-14",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/metamask-banxa-roll-out-1-click-crypto-buys-apple-pay.jpg?raw=true",
+         "news_thumbnail_url":"https://decrypt.co/152393/metamask-banxa-roll-out-1-click-crypto-buys-apple-pay"
+      },
+      {
+         "title":"Coinbase Finally Wins Approval to List Crypto Futures in U.S.",
+         "description":"Cryptocurrency exchange Coinbase (COIN) can now list crypto futures in the U.S.",
+         "date":"2023-08-16",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/coinbase-finally-wins-approval-to-list-crypto-futures-in-us.jpg?raw=true",
+         "news_thumbnail_url":"https://www.coindesk.com/business/2023/08/16/coinbase-finally-wins-approval-to-list-crypto-futures-in-us/"
+      },
+      {
+         "title":"FarmVille Creator Zynga Reveals First Ethereum NFT Game: Sugartown",
+         "description":"The casual and mobile publisher behind FarmVille and Words With Friends will launch the Ethereum-based Sugartown later this year.",
+         "date":"2023-08-14",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/farmville-creator-zynga-reveals-first-ethereum-nft-game-sugartown.jpg?raw=true",
+         "news_thumbnail_url":"https://decrypt.co/152425/farmville-creator-zynga-reveals-first-ethereum-nft-game-sugartown"
+      },
+      {
+         "title":"Bitcoin Price Prediction: Analyst Foresees BTC Touching $70k; Pegs DigiToads for a 1500% Upsurge",
+         "description":" A recent forecast has set the stage for excitement as an analyst predicts Bitcoin (BTC) to soar to an impressive $70,000. ",
+         "date":"2023-08-19",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-price-prediction-analyst-foresees-btc-touching-70k-pegs-digitoads-for-a-1500-upsurge.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/bitcoin-price-prediction-analyst-foresees-btc-touching-70k-pegs-digitoads-for-a-1500-upsurge/"
+      },
+      {
+         "title":"Bitcoin Spark: The Next Big Thing After Shiba Inu’s Unexpected Rise?",
+         "description":"Bitcoin Spark’s low market cap, limited supply, utility, and innovative technology could see it rise by levels comparable to if not exceeding Shiba Inu’s unexpected rise.",
+         "date":"2023-08-21",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-spark-the-next-big-thing-after-shiba-inus-unexpected-rise.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/bitcoin-spark-the-next-big-thing-after-shiba-inus-unexpected-rise/"
+      },
+      {
+         "title":"Why TUK is the TESLA of the Crypto Market",
+         "description":"Since eTukTuk focuses on developing nations, its goals don’t just come under climate action but also social and economic welfare.",
+         "date":"2023-08-23",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/why-tuk-is-the-tesla-of-the-crypto-market.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/why-tuk-is-the-tesla-of-the-crypto-market/"
+      },
+      {
+         "title":"Bitcoin Bounces Off Recent Lows for Biggest Gain in Six Weeks",
+         "description":" Bitcoin posted its biggest gain in almost six weeks amid increased optimism that central banks will pause interest-rate hikes that had helped to dent the appeal of cryptocurrencies.",
+         "date":"2023-08-24",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-bounces-off-recent-lows.jpg?raw=true",
+         "news_thumbnail_url":"https://finance.yahoo.com/news/bitcoin-bounces-off-recent-lows-203402377.html"
+      },
+      {
+         "title":"Mastercard, Binance to end crypto card partnership",
+         "description":"Mastercard and crypto exchange Binance will end their four crypto card programmes in Argentina, Brazil, Colombia and Bahrain as of Sept. 22, a spokesperson for Mastercard said via email on Thursday.",
+         "date":"2023-08-25",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/mastercard-binance-to-end-crypto-card-partnership.jpg?raw=true",
+         "news_thumbnail_url":"https://www.businesstoday.in/latest/world/story/mastercard-binance-to-end-crypto-card-partnership-395553-2023-08-25"
+      },
+      {
+         "title":"Crypto’s New King: This New Coin Overtakes Solana (SOL) & Stellar (XLM) in Market Cap!",
+         "description":"The market cap of Solana (SOL) and Stellar (XLM) sits in the tens of billions of dollars. Yet, the current decline in crypto has seen this dip as a fresh project emerges, capitalizing on industries worth the same lucrative potential.",
+         "date":"2023-08-24",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/cryptos-new-king-this-new-coin-overtakes-solana-sol-stellar-xlm-in-market-cap.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/cryptos-new-king-this-new-coin-overtakes-solana-sol-stellar-xlm-in-market-cap/"
+      },
+      {
+         "title":"JPMorgan sees 'limited downside' for crypto near term after Bitcoin's recent rout",
+         "description":"The fading of some positive legal and regulatory news induced a wave of selling in recent weeks that is “still reverberating,” though the unwinding appears to be at its end phase",
+         "date":"2023-07-27",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/jpmorgan-sees-limited-downside-for-crypto-near-term-after-bitcoin-recent-rout.jpg?raw=true",
+         "news_thumbnail_url":"https://www.cnbctv18.com/cryptocurrency/jpmorgan-sees-limited-downside-for-crypto-near-term-after-bitcoin-recent-rout-17647241.htm"
+      },
+      {
+         "title":"Crypto market cautious after Fed’s Powell says US inflation still ‘too high’",
+         "description":"Crypto investor sentiment remains cautious, although JPMorgan Chase & Co. analysts report that downward price momentum in the market has slowed. ",
+         "date":"2023-08-28",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-market-cautious-fed-powell.jpg?raw=true",
+         "news_thumbnail_url":"https://finance.yahoo.com/news/crypto-market-cautious-fed-powell-021904099.html"
+      },
+      {
+         "title":"Breaking victim ‘trust’ in scammer is key to beat crypto scams, exchanges say",
+         "description":"Responsibility for crypto scams does not only belong to the cryptocurrency industry, it also involves banks, telecoms and social media platforms, Australian exchanges say.",
+         "date":"2023-08-31",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-breaking-victim-trust-in-scammer-is-key-to-beat-crypto-scams-exchanges-say.jpg",
+         "news_thumbnail_url":"https://cointelegraph.com/news/crypto-breaking-victim-trust-in-scammer-is-key-to-beat-crypto-scams-exchanges-say"
+      },
+      {
+         "title":"How to Generate Passive Income in Crypto?",
+         "description":"A passive income provides an enticing prospect in the ever-evolving cryptocurrency landscape. While crypto can be used to earn passively, there are also risks associated with it.",
+         "date":"2023-08-29",
+         "category":"Investment Strategy",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-to-generate-passive-income-in-crypto.jpg?raw=true",
+         "news_thumbnail_url":"https://www.bsc.news/post/how-to-generate-passive-income-in-crypto"
+      },
+      {
+         "title":"Indian PM Modi calls for global cryptocurrency framework at G20 Summit",
+         "description":"Indian Prime Minister Narendra Modi has called for global collaboration on formulating crypto regulations during the annual Group of 20 (G20) summit.",
+         "date":"2023-08-28",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/india-modi-global-cryptocurrency-framework-g20-summit.png?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/india-modi-global-cryptocurrency-framework-g20-summit"
+      },
+      {
+         "title":"Is ChatGPT a Viable Substitute for Crypto Trading Bots?",
+         "description":"Some traders might prefer to use ChatGPT to consult an AI agent for guidance, information, or opinions rather than depending on a trading bot to make decisions for them.",
+         "date":"2023-08-31",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/is-chatgpt-a-viable-substitute-for-crypto-trading-bots.png?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/is-chatgpt-a-viable-substitute-for-crypto-trading-bots/"
+      },
+      {
+         "title":"Big Boost For 'Dogefather' Elon Musk As X Gets License For Crypto Payments In The US",
+         "description":"Self-proclaimed ‘Dogefather’ Elon Musk got a big boost after X (formerly Twitter) was granted a crypto license in the US.",
+         "date":"2023-08-30",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/elon-musk-x-gets-license-for-crypto-payments-in-us-state.jpg?raw=true",
+         "news_thumbnail_url":"https://www.indiatimes.com/worth/news/elon-musk-x-gets-license-for-crypto-payments-in-us-state-613518.html"
+      },
+      {
+         "title":"Indian Billionaire Mukesh Ambani's Firm Will Explore Blockchain Platforms and CBDCs",
+         "description":"Reliance Industries Ltd. is entering the world of blockchain and central bank digital currencies (CBDCs), its Chairman and Asia's richest man, Mukesh Ambani, announced on Monday.",
+         "date":"2023-08-28",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/ndian-billionaire-mukesh-ambanis-firm-will-explore-blockchain-platforms-and-cbdcs.webp?raw=true",
+         "news_thumbnail_url":"https://www.coindesk.com/policy/2023/08/28/indian-billionaire-mukesh-ambanis-firm-will-explore-blockchain-platforms-and-cbdcs/"
+      },
+      {
+         "title":"Shopify enables USDC payments via Solana Pay integration",
+         "description":"Shopify now supports Web3 commerce features like cross-border transactions and NFT loyalty schemes through its integration with Solana Pay",
+         "date":"2023-08-24",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/shopify-usdc-payments-solana-pay.jpg?raw=true",
+         "news_thumbnail_url":"https://blockworks.co/news/shopify-usdc-payments-solana-pay"
+      },
+      {
+         "title":"London Stock Exchange to create traditional assets trading platform on blockchain",
+         "description":"The LSE Group has been exploring how blockchain can improve traditional asset trading, according to an executive.",
+         "date":"2023-09-04",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/london-stock-exchange-to-create-traditional-assets-trading-platform-on-blockchain.png?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/london-stock-exchange-to-create-traditional-assets-trading-platform-on-blockchain"
+      },
+      {
+         "title":"SONY FILES PATENT FOR NFTS IN GAMING: WHAT THIS MEANS FOR THE INDUSTRY",
+         "description":"Sony, the multinational conglomerate behind the immensely popular PlayStation gaming consoles, has quietly filed a patent application in the United States concerning NFTs in the gaming space.",
+         "date":"2023-08-28",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/sony-files-patent-for-nfts-in-gaming-what-this-means-for-the-industry.jpg?raw=true",
+         "news_thumbnail_url":"https://nftnewstoday.com/2023/08/28/sony-files-patent-for-nfts-in-gaming-what-this-means-for-the-industry/"
+      },
+      {
+         "title":"Visa Expands Stablecoin Pilot Programs With Worldpay and Nuvei",
+         "description":"Visa has expanded its stablecoin settlement capabilities with Circle’s USDC stablecoin by using the Solana blockchain.",
+         "date":"2023-09-05",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/visa-expands-stablecoin-pilot-programs-worldpay-nuvei.jpg?raw=true",
+         "news_thumbnail_url":"https://www.pymnts.com/cryptocurrency/2023/visa-expands-stablecoin-pilot-programs-worldpay-nuvei/"
+      },
+      {
+         "title":"G20 nations close to sealing digital public infrastructure, debt, multilateral development banks, crypto pacts",
+         "description":"G20 negotiators are in the final lap of discussions on issues such as the implementation of two-pillar tax framework and capacity-building of countries to navigate it. ",
+         "date":"2023-09-07",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/g20-nations-close-to-sealing-dpi-debt-mdb-crypto-pacts.png?raw=true",
+         "news_thumbnail_url":"https://www.hindustantimes.com/india-news/g20-nations-close-to-sealing-dpi-debt-mdb-crypto-pacts-101694026150263.html"
+      },
+      {
+         "title":"How to Make Money with NFTs? A Simple Guide for Beginners",
+         "description":"Making money with NFTs can be rewarding and fun but involves risks and challenges. ",
+         "date":"2023-09-03",
+         "category":"Investment Strategy",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-to-make-money-with-nfts-a-simple-guide-for-beginners.png?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/how-to-make-money-with-nfts-a-simple-guide-for-beginners/"
+      },
+      {
+         "title":"Investors Eye G20 Summit for Insights into Crypto Regulation",
+         "description":"Crypto Regulation can encourage broader adoption of blockchain technology and cryptocurrencies",
+         "date":"2023-09-08",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/investors-eye-g20-summit-for-insights-into-crypto-regulation.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/investors-eye-g20-summit-for-insights-into-crypto-regulation/"
+      },
+      {
+         "title":"Binance Enables Deposits, Withdrawals for Ethereum on zkSync Era",
+         "description":"Binance, the world’s largest crypto exchange by trading volume, has completed the integration of Ethereum (ETH) on the zkSync Era network",
+         "date":"2023-09-08",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/protocol-latest-tech-news-crypto-blockchain.png?raw=true",
+         "news_thumbnail_url":"https://www.coindesk.com/tech/2023/08/28/protocol-latest-tech-news-crypto-blockchain/"
+      },
+      {
+         "title":"Concrete plan needed for crypto: G20 paper",
+         "description":"The crypto ecosystem needs comprehensive regulatory and licensing mechanisms for macroeconomic and financial stability, a synthesis paper said.",
+         "date":"2023-09-08",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/concrete-plan-needed-for-crypto-g20-paper.png?raw=true",
+         "news_thumbnail_url":"https://www.hindustantimes.com/india-news/concrete-plan-needed-for-crypto-g20-paper-101694111362041.html"
+      },
+      {
+         "title":"The Elon Musk-Dogecoin Connection; What This Means for Crypto Users",
+         "description":"Businesses that Elon Musk has endorsed have seen their share price go up, he has an army of loyal supporters who will believe in the cryptos he pushes, and the world’s media will report on what he does.",
+         "date":"2023-09-11",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/the-elon-musk-dogecoin-connection-what-this-means-for-crypto-users.png?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/the-elon-musk-dogecoin-connection-what-this-means-for-crypto-users/"
+      },
+      {
+         "title":"PayPal Introduces On and Off Ramps for Web3 Payments",
+         "description":" By adding Off Ramps, crypto wallet users in the U.S. can convert their crypto to USD directly from their wallets into their PayPal balance so they can shop, send, save, or transfer to their bank or debit card.",
+         "date":"2023-09-11",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/PayPal-Introduces-On-and-Off-Ramps-for-Web3-Payments.png?raw=true",
+         "news_thumbnail_url":"https://newsroom.paypal-corp.com/2023-09-11-PayPal-Introduces-On-and-Off-Ramps-for-Web3-Payments"
+      },
+      {
+         "title":"MetaMask interoperable with Bitcoin for first time",
+         "description":"New functionality from Consensys, dubbed MetaMask Snaps, will allow customization of MetaMask wallets to a much greater extent than was previously possible.",
+         "date":"2023-09-12",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/metamask-snaps-interoperable.png?raw=true",
+         "news_thumbnail_url":"https://blockworks.co/news/metamask-snaps-interoperable"
+      },
+      {
+         "title":"Diesel’s latest NFT drop could get you access to Milan Fashion Week",
+         "description":"Token holders can attend the upcoming show and mingle with other fans, buyers, fashion influencers, and editors.",
+         "date":"2023-09-13",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/diesel-nft-grants-milan-fashion-week-access.jpg?raw=true",
+         "news_thumbnail_url":"https://www.cryptopolitan.com/diesel-nft-grants-milan-fashion-week-access/"
+      },
+      {
+         "title":"India, Nigeria, Vietnam Lead Chainalysis Global Crypto Adoption Index",
+         "description":"Blockchain data analytics firm Chainalysis has finalized its latest Global Crypto Adoption Index.",
+         "date":"2023-09-14",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/india-nigeria-vietnam-lead-chainalysis-global-crypto-adoption-index.jpg?raw=true",
+         "news_thumbnail_url":"https://news.bitcoin.com/india-nigeria-vietnam-lead-chainalysis-global-crypto-adoption-index/"
+      },
+      {
+         "title":"Top 10 New Things in the World of Blockchain",
+         "description":"In the ever-evolving landscape of technology, the blockchain world continues to push the boundaries of innovation. ",
+         "date":"2023-09-15",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/top-10-new-things-in-the-world-of-blockchain.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/top-10-new-things-in-the-world-of-blockchain/"
+      },
+      {
+         "title":"SEC charges Stoner Cats in latest move against NFTs",
+         "description":" Stoner Cats is charged by SEC in latest move against NFTs",
+         "date":"2023-09-15",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/news2.png?raw=true",
+         "news_thumbnail_url":"https://www.ft.com/content/db35a2a1-addd-4ec6-8b6c-ac33521f00f0"
+      },
+      {
+         "title":"Grab Launches Web3 Wallet For Singaporean Users.",
+         "description":"Grab's Web3 Wallet Leverages Polygon's Technology, Supports SGD Payments and NFT Vouchers.",
+         "date":"2023-09-21",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/grab-launches-web3-wallet-for-singaporean-users.jpg?raw=true",
+         "news_thumbnail_url":"https://thedefiant.io/grab-launches-web3-wallet-for-singaporean-users"
+      },
+      {
+         "title":"NFTs, once hyped as the next big thing, now face 'worst moment'.",
+         "description":"NFTs, along with the rest of crypto, had a painful comeuppance last year.",
+         "date":"2023-09-01",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/nfts-once-hyped-as-the-next-big-thing-now-face-worst-moment.jpg?raw=true",
+         "news_thumbnail_url":"https://economictimes.indiatimes.com/tech/technology/nfts-once-hyped-as-the-next-big-thing-now-face-worst-moment/articleshow/103293788.cms"
+      },
+      {
+         "title":"Bitcoin gains legal recognition as digital currency in Shanghai, China.",
+         "description":"A similar report from another Chinese court in September recognized cryptocurrencies as virtual properties protected by law.",
+         "date":"2023-09-26",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-legally-recognised-digital-currency-shanghai-china.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/bitcoin-legally-recognised-digital-currency-shanghai-china"
+      },
+      {
+         "title":"¡Hola Argentina! Buenos Aires Brings Digital Identity To Millions of Citizens.",
+         "description":"Buenos Aires is teaming up with QuarkID to issue digital identification services to citizens in Buenos Aires.",
+         "date":"2023-09-28",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/YZPAHCRhP7p0FAq_EwQ2P.jpg?raw=true",
+         "news_thumbnail_url":"https://zksync.mirror.xyz/w4_Dyhbx1X2BEGpYNCn8rEAS_2uC1hV0qPQl_m5AChk"
+      },
+      {
+         "title":"Mastercard announces successful wrapped CBDC trial results.",
+         "description":"The experiment demonstrated that CBDCs could be wrapped to purchase NFTs on blockchains such as Ethereum.",
+         "date":"2023-10-12",
+         "category":"NFTs",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images//mastercard-announces-successful-wrapped-cbdc-blockchain-trial-results.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/mastercard-announces-successful-wrapped-cbdc-blockchain-trial-results"
+      },
+      {
+         "title":"SEGA EXPLORES BLOCKCHAIN GAMING WITH NFT-BASED TRADING CARD GAME.",
+         "description":"Gaming giant Sega is making strides into the blockchain gaming arena by co-developing a trading card NFT game based on its Sangokushi Taisen franchise.",
+         "date":"2023-10-16",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/sega-explores-blockchain-gaming-with-nft-based-trading-card-game.jpg?raw=true",
+         "news_thumbnail_url":"https://nftnewstoday.com/2023/10/16/sega-explores-blockchain-gaming-with-nft-based-trading-card-game"
+      },
+      {
+         "title":"Bitcoin-accepting vendors increased 174% in 2023: BTC merchant tracker.",
+         "description":"The crowdsourced mapping data reports a concentration of Bitcoin-accepting merchants in Europe and Latin America.",
+         "date":"2024-01-08",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-accepting-vendors-increased-174-in-2023-btc-merchant-tracker.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/bitcoin-accepting-vendors-increased-174-in-2023-btc-merchant-tracker"
+      },
+      {
+         "title":"Wallet developer offers ‘on-chain bounty’ daring hackers to take $430K BTC.",
+         "description":"Zengo Wallet will reveal a wallet address containing up to 10 BTC and will also disclose two out of three security factors used to create it.",
+         "date":"2024-01-07",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/wallet-developer-offers-on-chain-bounty-daring-hackers-430k-btc.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/wallet-developer-offers-on-chain-bounty-daring-hackers-430k-btc"
+      },
+      {
+         "title":"Indian crypto platforms thrive amid FIU IND's foreign exchange notice.",
+         "description":"CoinDCX saw a 2000% increase in deposits while Mudrex clocked in deposits worth over $1 million and added 10,000 new users on its platform.",
+         "date":"2024-01-05",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/google_vignette.jpg",
+         "news_thumbnail_url":"https://www.moneycontrol.com/news/technology/indian-crypto-platforms-thrive-amid-fiu-inds-foreign-exchange-notice-12007051.html"
+      },
+      {
+         "title":"Bitcoin traders see breakout as bulls cling to $44K in ETF countdown.",
+         "description":"BTC price action is due a sea change in the coming days thanks to the spot Bitcoin ETF decision, while U.S. inflation data is also inbound.",
+         "date":"2024-01-07",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-traders-breakout-bulls-44k-etf.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/bitcoin-traders-breakout-bulls-44k-etf"
+      },
+      {
+         "title":"Bitcoin Likely to Drop After the Halving, JPMorgan Says.",
+         "description":"The bank’s analysis of open interest in bitcoin futures shows that the cryptocurrency is still considered overbought.",
+         "date":"2024-04-18",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-likely-to-drop-after-the-halving-jpmorgan-says.jpg?raw=true",
+         "news_thumbnail_url":"https://www.coindesk.com/markets/2024/04/18/bitcoin-likely-to-drop-after-the-halving-jpmorgan-says/?_gl=1*3sunjo*_up*MQ..*_ga*MTM5NzM5MjA4Ni4xNzEzNDQ2MDA3*_ga_VM3STRYVN8*MTcxMzQ0NjAwNi4xLjAuMTcxMzQ0NjAwNi4wLjAuMA.."
+      },
+      {
+         "title":"Free fall! Bitcoin slips 7% to fall below $65,000-mark",
+         "description":"Bitcoin slipped 7 percent on April 2 to fall below $65,000 as demand eases for dedicated US exchange-traded funds and bets retreat on a lax Federal Reserve policy.",
+         "date":"2024-04-02",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/free-fall-bitcoin-slips-7-to-fall-below-65000-mark-12563191l.jpg?raw=true",
+         "news_thumbnail_url":"https://www.moneycontrol.com/news/business/cryptocurrency/free-fall-bitcoin-slips-7-to-fall-below-65000-mark-12563191.html"
+      },
+      {
+         "title":"Hong Kong ETFs open the ‘door’ to Chinese RMB holders, issuers say.",
+         "description":"Fund issuers and industry experts hope Hong Kong’s new crypto ETFs will open the door for mainland Chinese investment in the future.",
+         "date":"2024-04-30",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/hong-kong-etfs-opens-door-chinese-investors.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/hong-kong-etfs-opens-door-chinese-investors"
+      },
+      {
+         "title":"Crypto Price Today: This article aims to provide insights into the current state of the cryptocurrency landscape",
+         "description":"n today’s update, we’ll explore the latest movements in the crypto market.",
+         "date":"2024-04-30",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/crypto-price-today-bitcoin-marginally-up-hnt-soars.jpg?raw=true",
+         "news_thumbnail_url":"https://www.analyticsinsight.net/crypto-price-today-bitcoin-marginally-up-hnt-soars/"
+      },
+      {
+         "title":"BTC price clings to $62K as Bitcoin bulls suffer post-halving ‘boredom’.",
+         "description":"Bitcoin may be preparing for trend continuation, but on short timeframes, BTC price behavior is inspiring no one.",
+         "date":"2024-05-08",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/btc-price-62k-bitcoin-bulls-suffer-post-halving.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/btc-price-62k-bitcoin-bulls-suffer-post-halving"
+      },
+      {
+         "title":"Price analysis 5/8: BTC, ETH, BNB, SOL, XRP, DOGE, TON, ADA, AVAX, SHIB.",
+         "description":"Bitcoin’s dull range-bound action is likely to continue for a few more days as the bulls and the bears battle for control of BTC price..",
+         "date":"2024-05-09",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/price-analysis-5-8-btc-eth-bnb-sol-xrp-doge-ton-ada-avax-shib.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/price-analysis-5-8-btc-eth-bnb-sol-xrp-doge-ton-ada-avax-shib"
+      },
+      {
+         "title":"Blockchain gaming investments reached nearly $1B in April.",
+         "description":"The investment figures come alongside a record high 2.9 million daily unique active wallets (dUAW) for the month.",
+         "date":"2024-05-18",
+         "category":"Blockchain",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/blockchain-gaming-investments-1-billion-nft-web3-april.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/blockchain-gaming-investments-1-billion-nft-web3-april"
+      },
+      {
+         "title":"Bitcoin whale demand accelerates, but price jump could ‘take weeks’ — Analysts",
+         "description":"The break in Bitcoin’s daily downtrend and heightened demand from whales indicate Bitcoin’s price could jump, but analysts expected it to take a few weeks.",
+         "date":"2024-05-16",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-whale-demand-surges-price-jump-could-take-weeks-cryptoquant.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/bitcoin-whale-demand-surges-price-jump-could-take-weeks-cryptoquant"
+      },
+      {
+         "title":"Why is the crypto market up today?",
+         "description":"Rising crypto of a spot Ether ETFapproval, increasing inflows into crypto investment products and a strong technical setup are some catalysts behind the crypto market’s rise today.",
+         "date":"2024-05-22",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/why-is-the-crypto-market-up-today.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/why-is-the-crypto-market-up-today"
+      },
+      {
+         "title":"4 reasons why Bitcoin was (and still is) a buy below $70K.",
+         "description":"Technical chart patterns suggest that Bitcoin could see more upside momentum in the following weeks, mirroring previous bull cycles.",
+         "date":"2024-05-21",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/4-reasons-buy-bitcoin-below-70k.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/4-reasons-buy-bitcoin-below-70k"
+      }
+   ]
 }
