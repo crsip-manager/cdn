@@ -863,7 +863,7 @@
          "category":"Bitcoin",
          "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/4-reasons-buy-bitcoin-below-70k.jpg?raw=true",
          "news_thumbnail_url":"https://cointelegraph.com/news/4-reasons-buy-bitcoin-below-70k"
-      }
+      },
       {
           "title": "Ronaldo unveils 4th NFT collection, Rabbit responds to Coffeezilla: Nifty Newsletter",
           "description": "AI company Rabbit denied Coffeezilla’s claims that the firm was not forthright about the open-sourcing of its past NFT project.",
@@ -871,7 +871,7 @@
           "category": "NFT",
           "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images//cristiano-ronaldo-nft-ronaldo-4th-nft-rabbit-denies-coffeezilla-claims.jpg?raw=true",
           "news_thumbnail_url": "https://cointelegraph.com/news/cristiano-ronaldo-nft-ronaldo-4th-nft-rabbit-denies-coffeezilla-claims"
-        }
+      },
       {
           "title": "Bitcoin traders brace for US macro data with BTC price stuck at $67K.",
           "description": "Bitcoin bulls seem unable to effect significant change on a sideways market — traders hope that macro data will upend the status quo for BTC price action.",
@@ -879,6 +879,6 @@
           "category": "Bitcoin",
           "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-traders-us-macro-data-btc-price-stuck-67k.jpg?raw=true",
           "news_thumbnail_url": "https://cointelegraph.com/news/bitcoin-traders-us-macro-data-btc-price-stuck-67k"
-        }
+      }
    ]
 }
