@@ -865,20 +865,36 @@
          "news_thumbnail_url":"https://cointelegraph.com/news/4-reasons-buy-bitcoin-below-70k"
       },
       {
-          "title": "Ronaldo unveils 4th NFT collection, Rabbit responds to Coffeezilla: Nifty Newsletter",
-          "description": "AI company Rabbit denied Coffeezilla’s claims that the firm was not forthright about the open-sourcing of its past NFT project.",
-          "date": "2024-05-30",
-          "category": "NFT",
-          "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images//cristiano-ronaldo-nft-ronaldo-4th-nft-rabbit-denies-coffeezilla-claims.jpg?raw=true",
-          "news_thumbnail_url": "https://cointelegraph.com/news/cristiano-ronaldo-nft-ronaldo-4th-nft-rabbit-denies-coffeezilla-claims"
+         "title":"Ronaldo unveils 4th NFT collection, Rabbit responds to Coffeezilla: Nifty Newsletter",
+         "description":"AI company Rabbit denied Coffeezilla’s claims that the firm was not forthright about the open-sourcing of its past NFT project.",
+         "date":"2024-05-30",
+         "category":"NFT",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images//cristiano-ronaldo-nft-ronaldo-4th-nft-rabbit-denies-coffeezilla-claims.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/cristiano-ronaldo-nft-ronaldo-4th-nft-rabbit-denies-coffeezilla-claims"
       },
       {
-          "title": "Bitcoin traders brace for US macro data with BTC price stuck at $67K.",
-          "description": "Bitcoin bulls seem unable to effect significant change on a sideways market — traders hope that macro data will upend the status quo for BTC price action.",
-          "date": "2024-05-30",
-          "category": "Bitcoin",
-          "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-traders-us-macro-data-btc-price-stuck-67k.jpg?raw=true",
-          "news_thumbnail_url": "https://cointelegraph.com/news/bitcoin-traders-us-macro-data-btc-price-stuck-67k"
+         "title":"Bitcoin traders brace for US macro data with BTC price stuck at $67K.",
+         "description":"Bitcoin bulls seem unable to effect significant change on a sideways market — traders hope that macro data will upend the status quo for BTC price action.",
+         "date":"2024-05-30",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-traders-us-macro-data-btc-price-stuck-67k.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/bitcoin-traders-us-macro-data-btc-price-stuck-67k"
+      },
+      {
+         "title":"Bitcoin ETFs notch nearly $500M inflows despite low search interest",
+         "description":"U.S. Bitcoin ETFs saw inflows of over $488 million, but Google Trends data shows Bitcoin and crypto-related searches are far down from 2021 highs.",
+         "date":"2024-06-06",
+         "category":"Bitcoin",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/bitcoin-etfs-near-500-million-inflows-but-no-google-searches.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/bitcoin-etfs-near-500-million-inflows-but-no-google-searches"
+      },
+      {
+         "title":"Here’s what happened in crypto today.",
+         "description":"Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+         "date":"2024-06-06",
+         "category":"Cryptocurrency",
+         "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/what-happened-in-crypto-today.jpg?raw=true",
+         "news_thumbnail_url":"https://cointelegraph.com/news/what-happened-in-crypto-today"
       }
    ]
 }
