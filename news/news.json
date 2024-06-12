@@ -895,6 +895,22 @@
          "category":"Cryptocurrency",
          "thumbnail_url":"https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/what-happened-in-crypto-today.jpg?raw=true",
          "news_thumbnail_url":"https://cointelegraph.com/news/what-happened-in-crypto-today"
+      },
+      {
+          "title": "Polygon launches $720M Community Treasury for blockchain grants",
+          "description": "Polygon introduces a $720 million Community Treasury to fund blockchain projects, targeting developers within the Polygon and Ethereum ecosystems.",
+          "date": "2024-06-11",
+          "category": "Blockchain",
+          "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/polygon-launches-720m-community-treasury-blockchain-grants.jpg?raw=true",
+          "news_thumbnail_url": "https://cointelegraph.com/news/polygon-launches-720m-community-treasury-blockchain-grants"
+      },
+      {
+          "title": "How low can the Bitcoin price go?",
+          "description": "Bitcoin price is down 10% from its record high, and many analysts say BTC could drop lower as part of its routine consolidation phases.",
+          "date": "2024-06-11",
+          "category": "Bitcoin",
+          "thumbnail_url": "https://raw.githubusercontent.com/crsip-manager/cdn/main/news/images/how-low-can-the-bitcoin-price-go.jpg?raw=true",
+          "news_thumbnail_url": "https://cointelegraph.com/news/how-low-can-the-bitcoin-price-go"
       }
    ]
 }
